@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Name,Country,Region,Product_Category,Product_Name,Quantity,Sales,Profit
+1,2025-12-13,Customer_0190,Australia,Oceania,Dal,Toor Dal,8,848.56,167.42
+2,2025-04-30,Customer_0130,Italy,Europe,Fruits,Apple,14,538.3,37.0
+3,2025-08-03,Customer_0057,China,Asia,Vegetables,Potato,7,289.03,54.99
+4,2025-08-05,Customer_0088,Australia,Oceania,Dairy,Butter,1,72.32,5.93
+5,2025-07-03,Customer_0089,Canada,North America,Spices,Turmeric,11,803.22,101.19
+6,2025-07-13,Customer_0021,India,Asia,Vegetables,Tomato,15,562.65,137.64
+7,2025-01-24,Customer_0170,Italy,Europe,Fruits,Banana,12,657.84,125.59
+8,2025-08-21,Customer_0163,United States,North America,Oil,Groundnut Oil,8,1422.24,179.24
+9,2025-12-16,Customer_0166,Germany,Europe,Beverages,Tea,12,840.72,86.93
+10,2025-07-14,Customer_0070,United Kingdom,Europe,Dal,Masoor Dal,18,2565.0,212.08
+11,2025-06-11,Customer_0103,Germany,Europe,Fruits,Apple,2,88.74,5.01
+12,2025-12-02,Customer_0128,Canada,North America,Spices,Turmeric,19,2181.58,246.38
+13,2025-10-15,Customer_0138,Japan,Asia,Snacks,Namkeen,5,204.5,20.31
+14,2025-04-23,Customer_0036,Italy,Europe,Spices,Garam Masala,14,1623.72,210.89
+15,2025-03-23,Customer_0175,United States,North America,Fruits,Banana,2,126.66,10.2
+16,2025-09-28,Customer_0065,United States,North America,Snacks,Namkeen,13,572.65,142.72
+17,2025-06-24,Customer_0029,United States,North America,Fruits,Apple,18,1080.54,220.13
+18,2025-05-15,Customer_0129,United Kingdom,Europe,Spices,Chilli Powder,15,1015.2,197.37
+19,2025-03-24,Customer_0139,Australia,Oceania,Flour,Wheat Flour,17,1042.95,84.03
+20,2025-07-05,Customer_0079,Italy,Europe,Fruits,Apple,11,573.76,41.53
+21,2025-09-06,Customer_0018,Canada,North America,Oil,Sunflower Oil,19,3506.26,235.38
+22,2025-09-28,Customer_0156,United Kingdom,Europe,Fruits,Apple,16,1054.56,87.56
+23,2025-12-10,Customer_0167,China,Asia,Snacks,Biscuits,7,371.0,48.16
+24,2025-06-23,Customer_0006,China,Asia,Beverages,Coffee,15,987.15,93.72
+25,2025-11-20,Customer_0016,Canada,North America,Vegetables,Onion,19,586.53,37.65
+26,2025-12-09,Customer_0125,India,Asia,Oil,Sunflower Oil,11,1220.45,119.12
+27,2025-07-28,Customer_0049,Italy,Europe,Oil,Sunflower Oil,19,2749.3,568.9
+28,2025-01-28,Customer_0173,France,Europe,Dal,Toor Dal,12,1446.0,207.36
+29,2025-04-09,Customer_0049,France,Europe,Dal,Toor Dal,11,1624.04,116.69
+30,2025-02-08,Customer_0114,United Kingdom,Europe,Fruits,Banana,14,602.0,85.8
+31,2025-05-02,Customer_0043,India,Asia,Fruits,Apple,18,1126.44,274.63
+32,2025-03-26,Customer_0098,Japan,Asia,Snacks,Chips,7,399.7,92.13
+33,2025-10-12,Customer_0170,Australia,Oceania,Rice,Brown Rice,15,967.2,183.11
+34,2025-10-05,Customer_0016,Canada,North America,Dairy,Milk,10,528.4,32.6
+35,2025-09-29,Customer_0041,India,Asia,Beverages,Tea,19,1574.91,368.34
+36,2025-05-01,Customer_0104,United Kingdom,Europe,Rice,Basmati Rice,3,232.47,43.02
+37,2025-08-03,Customer_0169,Canada,North America,Dal,Masoor Dal,19,2523.39,438.76
+38,2025-06-10,Customer_0062,China,Asia,Vegetables,Onion,11,504.68,45.85
+39,2025-02-07,Customer_0003,United Kingdom,Europe,Spices,Chilli Powder,10,921.9,217.39
+40,2025-05-16,Customer_0034,Italy,Europe,Dairy,Butter,4,190.56,17.65
+41,2025-10-06,Customer_0181,Canada,North America,Beverages,Tea,12,884.16,121.69
+42,2025-12-06,Customer_0027,China,Asia,Spices,Garam Masala,1,103.56,16.66
+43,2025-05-25,Customer_0155,United States,North America,Flour,Besan,4,263.0,21.33
+44,2025-01-27,Customer_0024,Canada,North America,Oil,Groundnut Oil,9,1327.05,133.0
+45,2025-05-15,Customer_0042,India,Asia,Snacks,Chips,1,42.76,3.26
+46,2025-12-20,Customer_0039,France,Europe,Dairy,Butter,18,816.3,53.1
+47,2025-01-22,Customer_0079,Germany,Europe,Fruits,Apple,19,1027.52,139.7
+48,2025-07-01,Customer_0200,Germany,Europe,Beverages,Tea,7,649.18,119.05
+49,2025-03-25,Customer_0046,Italy,Europe,Fruits,Banana,5,326.35,31.77
+50,2025-12-09,Customer_0189,United Kingdom,Europe,Snacks,Biscuits,11,603.57,79.88
+51,2025-08-29,Customer_0057,United Kingdom,Europe,Oil,Groundnut Oil,4,548.52,31.67
+52,2025-04-25,Customer_0007,Germany,Europe,Oil,Groundnut Oil,10,1739.3,390.06
+53,2025-05-23,Customer_0090,Germany,Europe,Oil,Groundnut Oil,9,1598.49,389.04
+54,2025-05-14,Customer_0046,China,Asia,Fruits,Banana,11,722.48,52.79
+55,2025-06-10,Customer_0112,India,Asia,Vegetables,Tomato,4,155.12,18.48
+56,2025-01-23,Customer_0182,United States,North America,Vegetables,Onion,13,586.82,51.65
+57,2025-12-10,Customer_0051,China,Asia,Snacks,Biscuits,18,941.4,224.1
+58,2025-03-05,Customer_0185,United States,North America,Beverages,Coffee,11,989.01,180.67
+59,2025-10-11,Customer_0033,Australia,Oceania,Spices,Garam Masala,14,1191.54,225.73
+60,2025-10-08,Customer_0001,France,Europe,Oil,Groundnut Oil,6,940.2,103.6
+61,2025-06-14,Customer_0120,Canada,North America,Spices,Chilli Powder,14,1539.02,263.68
+62,2025-03-28,Customer_0169,Canada,North America,Dairy,Curd,17,1054.51,242.79
+63,2025-05-01,Customer_0173,China,Asia,Dal,Moong Dal,20,2282.6,487.76
+64,2025-09-01,Customer_0157,Canada,North America,Spices,Turmeric,5,344.1,34.06
+65,2025-09-11,Customer_0103,France,Europe,Dal,Moong Dal,19,1976.0,374.0
+66,2025-12-23,Customer_0133,India,Asia,Oil,Sunflower Oil,4,681.56,63.91
+67,2025-03-10,Customer_0119,China,Asia,Dairy,Milk,8,624.24,46.36
+68,2025-11-10,Customer_0185,Italy,Europe,Fruits,Orange,11,726.0,165.74
+69,2025-09-01,Customer_0116,China,Asia,Fruits,Banana,15,966.3,192.03
+70,2025-08-14,Customer_0020,Australia,Oceania,Spices,Turmeric,17,1592.39,155.81
+71,2025-03-12,Customer_0039,Australia,Oceania,Spices,Turmeric,11,932.36,147.34
+72,2025-10-05,Customer_0120,United Kingdom,Europe,Oil,Groundnut Oil,7,772.8,101.64
+73,2025-12-23,Customer_0006,Canada,North America,Snacks,Biscuits,14,619.78,126.41
+74,2025-07-19,Customer_0108,Japan,Asia,Vegetables,Tomato,1,46.05,5.05
+75,2025-05-20,Customer_0112,China,Asia,Fruits,Orange,20,1288.6,190.26
+76,2025-03-26,Customer_0120,France,Europe,Dairy,Milk,11,759.88,159.29
+77,2025-11-26,Customer_0110,France,Europe,Flour,Wheat Flour,19,1137.53,63.04
+78,2025-08-21,Customer_0084,United Kingdom,Europe,Flour,Besan,2,99.68,11.51
+79,2025-01-10,Customer_0192,Australia,Oceania,Beverages,Coffee,14,1009.54,67.01
+80,2025-11-30,Customer_0011,Germany,Europe,Fruits,Apple,8,456.0,94.05
+81,2025-08-31,Customer_0172,Canada,North America,Rice,Basmati Rice,1,78.6,7.68
+82,2025-03-27,Customer_0156,Canada,North America,Dal,Masoor Dal,15,2105.4,428.2
+83,2025-01-14,Customer_0080,United States,North America,Vegetables,Onion,6,279.06,19.99
+84,2025-10-31,Customer_0177,France,Europe,Vegetables,Onion,13,598.26,53.64
+85,2025-10-17,Customer_0011,Australia,Oceania,Oil,Sunflower Oil,20,3453.2,722.57
+86,2025-01-07,Customer_0108,France,Europe,Beverages,Juice,12,759.72,136.38
+87,2025-12-29,Customer_0040,France,Europe,Dairy,Milk,12,814.56,175.73
+88,2025-09-05,Customer_0120,China,Asia,Snacks,Biscuits,9,453.42,106.07
+89,2025-02-14,Customer_0072,Italy,Europe,Snacks,Namkeen,9,382.05,37.86
+90,2025-01-15,Customer_0127,Japan,Asia,Dairy,Milk,19,1272.43,160.07
+91,2025-05-24,Customer_0153,Japan,Asia,Beverages,Tea,7,539.21,54.82
+92,2025-07-28,Customer_0126,India,Asia,Spices,Garam Masala,17,2017.9,135.45
+93,2025-05-31,Customer_0057,Japan,Asia,Fruits,Apple,16,815.2,43.57
+94,2025-10-11,Customer_0136,Canada,North America,Snacks,Namkeen,10,516.8,63.98
+95,2025-06-06,Customer_0065,China,Asia,Beverages,Coffee,11,845.79,119.04
+96,2025-12-20,Customer_0048,Canada,North America,Oil,Sunflower Oil,11,1265.44,198.89
+97,2025-09-26,Customer_0153,Japan,Asia,Oil,Sunflower Oil,9,1492.83,366.22
+98,2025-01-08,Customer_0182,Canada,North America,Spices,Turmeric,10,797.8,68.52
+99,2025-12-24,Customer_0033,Australia,Oceania,Fruits,Apple,2,133.46,21.44
+100,2025-06-24,Customer_0048,India,Asia,Dairy,Milk,19,1049.56,152.97
+101,2025-02-07,Customer_0148,Japan,Asia,Rice,Brown Rice,4,348.12,45.3
+102,2025-05-08,Customer_0031,United Kingdom,Europe,Rice,Basmati Rice,19,1754.84,117.64
+103,2025-09-25,Customer_0098,Italy,Europe,Fruits,Banana,20,1224.4,116.49
+104,2025-11-14,Customer_0016,Australia,Oceania,Dairy,Curd,19,1532.16,170.19
+105,2025-02-11,Customer_0041,United States,North America,Vegetables,Onion,7,275.73,28.38
+106,2025-12-19,Customer_0153,China,Asia,Oil,Sunflower Oil,3,354.45,46.68
+107,2025-08-21,Customer_0019,India,Asia,Dairy,Curd,8,442.96,47.19
+108,2025-11-28,Customer_0039,Italy,Europe,Oil,Groundnut Oil,7,984.97,156.52
+109,2025-10-19,Customer_0074,United States,North America,Spices,Turmeric,2,152.92,17.05
+110,2025-09-14,Customer_0139,Japan,Asia,Dairy,Milk,10,701.9,167.43
+111,2025-06-15,Customer_0155,United States,North America,Dairy,Curd,20,928.6,126.67
+112,2025-10-22,Customer_0151,United States,North America,Spices,Turmeric,8,955.52,207.53
+113,2025-09-23,Customer_0167,Italy,Europe,Rice,Brown Rice,2,169.1,14.38
+114,2025-02-16,Customer_0121,United Kingdom,Europe,Dairy,Curd,19,1153.11,245.44
+115,2025-06-18,Customer_0106,Germany,Europe,Beverages,Coffee,11,1013.87,224.62
+116,2025-05-10,Customer_0083,France,Europe,Dairy,Curd,18,833.76,56.37
+117,2025-07-31,Customer_0014,China,Asia,Dal,Moong Dal,1,137.35,21.77
+118,2025-04-15,Customer_0069,Italy,Europe,Oil,Groundnut Oil,16,2520.48,509.13
+119,2025-01-15,Customer_0162,Australia,Oceania,Fruits,Apple,15,958.95,140.91
+120,2025-02-17,Customer_0058,United Kingdom,Europe,Vegetables,Potato,10,378.2,60.68
+121,2025-09-18,Customer_0181,United States,North America,Dal,Moong Dal,5,629.4,121.68
+122,2025-07-16,Customer_0049,Japan,Asia,Spices,Chilli Powder,16,1290.56,206.82
+123,2025-08-01,Customer_0088,United Kingdom,Europe,Vegetables,Onion,3,96.15,20.0
+124,2025-10-24,Customer_0169,India,Asia,Fruits,Banana,10,592.8,128.93
+125,2025-10-06,Customer_0097,Japan,Asia,Dairy,Milk,18,1123.92,130.92
+126,2025-07-30,Customer_0012,Canada,North America,Dairy,Curd,8,524.64,50.74
+127,2025-11-30,Customer_0039,Japan,Asia,Beverages,Juice,13,1020.89,186.56
+128,2025-02-21,Customer_0113,United Kingdom,Europe,Dairy,Milk,17,1355.75,157.81
+129,2025-12-02,Customer_0040,Japan,Asia,Dal,Masoor Dal,1,142.02,18.75
+130,2025-02-11,Customer_0085,Australia,Oceania,Dal,Moong Dal,11,1483.57,192.12
+131,2025-02-05,Customer_0061,Germany,Europe,Fruits,Banana,16,1018.72,58.25
+132,2025-12-27,Customer_0026,United States,North America,Spices,Turmeric,14,1684.62,340.42
+133,2025-05-31,Customer_0092,Australia,Oceania,Dairy,Milk,1,46.66,9.76
+134,2025-04-03,Customer_0044,United Kingdom,Europe,Beverages,Coffee,8,684.0,111.62
+135,2025-10-26,Customer_0037,Italy,Europe,Flour,Wheat Flour,13,802.1,78.74
+136,2025-08-27,Customer_0074,Australia,Oceania,Oil,Groundnut Oil,15,1896.75,98.4
+137,2025-06-03,Customer_0164,United States,North America,Fruits,Apple,15,987.9,244.54
+138,2025-07-16,Customer_0124,Australia,Oceania,Snacks,Namkeen,15,848.55,76.24
+139,2025-12-25,Customer_0076,France,Europe,Dal,Toor Dal,19,2201.15,240.31
+140,2025-01-26,Customer_0156,Australia,Oceania,Rice,Brown Rice,1,76.27,14.27
+141,2025-04-08,Customer_0159,Canada,North America,Dairy,Curd,20,1477.4,138.58
+142,2025-06-08,Customer_0113,United Kingdom,Europe,Spices,Garam Masala,4,465.12,83.38
+143,2025-08-01,Customer_0045,United Kingdom,Europe,Rice,Brown Rice,3,272.1,31.39
+144,2025-03-26,Customer_0066,China,Asia,Oil,Sunflower Oil,12,1795.08,417.71
+145,2025-04-26,Customer_0174,Germany,Europe,Dairy,Curd,4,247.44,16.1
+146,2025-10-02,Customer_0032,Germany,Europe,Snacks,Namkeen,3,165.3,8.73
+147,2025-07-10,Customer_0028,Australia,Oceania,Dairy,Curd,19,1115.68,198.27
+148,2025-11-09,Customer_0057,India,Asia,Oil,Groundnut Oil,20,3585.6,581.88
+149,2025-01-24,Customer_0010,Japan,Asia,Dal,Masoor Dal,10,1367.5,100.29
+150,2025-07-18,Customer_0117,United States,North America,Spices,Chilli Powder,4,320.72,50.52
+151,2025-08-01,Customer_0168,China,Asia,Beverages,Juice,14,1234.66,241.15
+152,2025-12-20,Customer_0095,Italy,Europe,Dal,Moong Dal,14,2206.54,233.78
+153,2025-12-18,Customer_0095,Japan,Asia,Oil,Groundnut Oil,8,1414.88,98.86
+154,2025-03-04,Customer_0117,Germany,Europe,Fruits,Orange,2,98.88,8.7
+155,2025-06-20,Customer_0063,Canada,North America,Dal,Masoor Dal,20,3198.4,192.27
+156,2025-04-30,Customer_0085,United States,North America,Flour,Wheat Flour,18,865.62,80.67
+157,2025-03-31,Customer_0029,Australia,Oceania,Flour,Wheat Flour,5,369.2,58.35
+158,2025-06-15,Customer_0005,India,Asia,Rice,Basmati Rice,12,1028.16,100.33
+159,2025-02-02,Customer_0122,India,Asia,Flour,Besan,5,328.65,51.01
+160,2025-11-11,Customer_0012,China,Asia,Dairy,Curd,19,929.67,140.16
+161,2025-07-25,Customer_0110,Japan,Asia,Fruits,Banana,1,39.32,5.73
+162,2025-03-17,Customer_0017,Japan,Asia,Dal,Moong Dal,3,464.25,53.12
+163,2025-11-02,Customer_0136,Italy,Europe,Flour,Besan,19,1127.65,129.72
+164,2025-02-28,Customer_0168,China,Asia,Spices,Chilli Powder,20,1814.6,378.56
+165,2025-06-23,Customer_0117,Canada,North America,Fruits,Orange,14,714.7,68.4
+166,2025-07-11,Customer_0040,United States,North America,Snacks,Chips,11,497.97,91.14
+167,2025-07-10,Customer_0034,United States,North America,Dairy,Milk,3,145.08,10.06
+168,2025-07-30,Customer_0091,Italy,Europe,Fruits,Apple,18,978.3,180.01
+169,2025-10-23,Customer_0130,India,Asia,Snacks,Namkeen,10,499.6,60.12
+170,2025-10-12,Customer_0095,Japan,Asia,Oil,Sunflower Oil,8,1409.36,169.16
+171,2025-11-15,Customer_0158,Italy,Europe,Dal,Moong Dal,8,1184.96,259.54
+172,2025-06-08,Customer_0087,Italy,Europe,Fruits,Apple,9,345.33,36.14
+173,2025-03-14,Customer_0190,United Kingdom,Europe,Beverages,Tea,5,435.9,56.74
+174,2025-03-22,Customer_0095,China,Asia,Rice,Basmati Rice,7,478.1,67.28
+175,2025-03-21,Customer_0041,Germany,Europe,Spices,Garam Masala,19,1894.3,429.38
+176,2025-11-07,Customer_0114,United States,North America,Vegetables,Potato,9,320.04,43.14
+177,2025-05-26,Customer_0174,Canada,North America,Snacks,Chips,17,625.94,85.12
+178,2025-11-03,Customer_0015,China,Asia,Vegetables,Tomato,10,272.0,35.1
+179,2025-05-29,Customer_0084,Australia,Oceania,Rice,Basmati Rice,7,593.11,120.3
+180,2025-12-27,Customer_0059,Japan,Asia,Dal,Toor Dal,14,1437.1,181.13
+181,2025-08-12,Customer_0005,Germany,Europe,Fruits,Orange,3,148.23,29.41
+182,2025-11-24,Customer_0107,Germany,Europe,Dairy,Milk,19,1148.55,150.33
+183,2025-11-13,Customer_0118,France,Europe,Spices,Turmeric,1,119.67,10.1
+184,2025-09-26,Customer_0021,France,Europe,Beverages,Tea,4,286.72,48.1
+185,2025-09-19,Customer_0163,Germany,Europe,Snacks,Chips,8,341.92,28.59
+186,2025-11-27,Customer_0038,China,Asia,Dal,Masoor Dal,7,1086.61,130.26
+187,2025-12-02,Customer_0020,United Kingdom,Europe,Oil,Sunflower Oil,9,1094.13,186.53
+188,2025-10-17,Customer_0165,Japan,Asia,Flour,Besan,19,1260.27,176.16
+189,2025-11-20,Customer_0078,Germany,Europe,Vegetables,Tomato,5,177.45,25.51
+190,2025-08-20,Customer_0010,India,Asia,Spices,Garam Masala,12,1138.8,127.64
+191,2025-02-16,Customer_0158,Australia,Oceania,Rice,Brown Rice,3,238.74,58.6
+192,2025-01-22,Customer_0116,France,Europe,Vegetables,Onion,15,576.6,138.87
+193,2025-02-01,Customer_0116,Canada,North America,Vegetables,Onion,11,428.56,64.4
+194,2025-12-29,Customer_0113,United States,North America,Dal,Moong Dal,17,2320.84,134.21
+195,2025-05-25,Customer_0100,China,Asia,Dairy,Butter,20,1014.2,126.34
+196,2025-02-03,Customer_0085,Italy,Europe,Snacks,Chips,2,110.12,19.76
+197,2025-11-05,Customer_0039,France,Europe,Dal,Masoor Dal,10,1081.4,238.25
+198,2025-12-02,Customer_0179,Italy,Europe,Beverages,Tea,5,520.0,58.26
+199,2025-06-18,Customer_0033,Italy,Europe,Snacks,Biscuits,3,126.33,15.83
+200,2025-04-03,Customer_0055,France,Europe,Fruits,Apple,17,821.95,100.7
+201,2025-06-01,Customer_0026,Canada,North America,Beverages,Coffee,8,864.0,69.97
+202,2025-11-13,Customer_0034,China,Asia,Fruits,Orange,2,114.72,25.84
+203,2025-11-16,Customer_0043,United Kingdom,Europe,Vegetables,Tomato,6,180.3,34.0
+204,2025-08-16,Customer_0157,France,Europe,Dairy,Milk,12,832.2,81.14
+205,2025-08-29,Customer_0050,Japan,Asia,Spices,Garam Masala,8,770.72,86.24
+206,2025-07-15,Customer_0129,Italy,Europe,Beverages,Juice,15,1232.4,131.07
+207,2025-05-09,Customer_0014,United Kingdom,Europe,Fruits,Banana,7,430.78,33.46
+208,2025-03-05,Customer_0073,China,Asia,Dairy,Curd,4,282.44,43.26
+209,2025-08-12,Customer_0024,Australia,Oceania,Dal,Toor Dal,15,2327.7,184.98
+210,2025-07-11,Customer_0061,Germany,Europe,Oil,Groundnut Oil,1,139.85,18.08
+211,2025-11-29,Customer_0086,Germany,Europe,Snacks,Biscuits,8,276.08,65.2
+212,2025-03-13,Customer_0195,India,Asia,Flour,Wheat Flour,10,715.2,103.34
+213,2025-04-21,Customer_0039,Italy,Europe,Dairy,Curd,1,77.61,4.18
+214,2025-05-02,Customer_0078,Italy,Europe,Fruits,Orange,17,853.4,175.15
+215,2025-02-02,Customer_0029,Canada,North America,Dal,Toor Dal,14,1904.0,332.37
+216,2025-03-15,Customer_0075,China,Asia,Dairy,Butter,1,67.75,11.18
+217,2025-12-07,Customer_0172,Italy,Europe,Snacks,Biscuits,12,483.0,64.39
+218,2025-09-17,Customer_0142,Germany,Europe,Dal,Masoor Dal,3,475.95,75.59
+219,2025-05-10,Customer_0192,Japan,Asia,Rice,Brown Rice,2,158.4,39.0
+220,2025-02-23,Customer_0198,United States,North America,Rice,Brown Rice,12,751.56,136.35
+221,2025-11-26,Customer_0045,Germany,Europe,Vegetables,Onion,5,135.9,21.64
+222,2025-08-23,Customer_0010,Japan,Asia,Dairy,Butter,6,445.26,27.88
+223,2025-06-08,Customer_0132,India,Asia,Spices,Turmeric,7,807.31,91.32
+224,2025-05-27,Customer_0092,Japan,Asia,Snacks,Namkeen,9,312.66,56.08
+225,2025-07-24,Customer_0191,Australia,Oceania,Rice,Brown Rice,4,344.28,47.3
+226,2025-09-23,Customer_0069,Germany,Europe,Dairy,Curd,6,377.16,56.39
+227,2025-04-03,Customer_0140,France,Europe,Dal,Masoor Dal,3,363.0,90.39
+228,2025-08-17,Customer_0155,United States,North America,Spices,Chilli Powder,3,255.63,27.9
+229,2025-06-30,Customer_0158,Japan,Asia,Snacks,Biscuits,12,549.84,107.42
+230,2025-09-20,Customer_0192,India,Asia,Snacks,Chips,3,155.61,20.42
+231,2025-03-06,Customer_0018,United Kingdom,Europe,Flour,Wheat Flour,20,1272.6,175.15
+232,2025-03-20,Customer_0174,Germany,Europe,Oil,Groundnut Oil,13,2401.88,135.65
+233,2025-09-29,Customer_0094,Germany,Europe,Dairy,Curd,15,1087.05,179.13
+234,2025-04-06,Customer_0128,Australia,Oceania,Snacks,Chips,8,477.44,26.35
+235,2025-08-17,Customer_0055,China,Asia,Fruits,Banana,4,181.4,18.51
+236,2025-08-20,Customer_0045,Japan,Asia,Vegetables,Tomato,7,201.81,44.51
+237,2025-05-29,Customer_0077,Germany,Europe,Dairy,Milk,12,846.48,135.44
+238,2025-03-13,Customer_0061,Germany,Europe,Flour,Wheat Flour,17,827.05,204.3
+239,2025-10-10,Customer_0034,Germany,Europe,Dairy,Milk,18,1180.8,169.42
+240,2025-09-03,Customer_0135,United States,North America,Vegetables,Potato,10,346.1,66.93
+241,2025-02-07,Customer_0116,Italy,Europe,Snacks,Chips,3,111.39,12.63
+242,2025-10-10,Customer_0164,China,Asia,Dairy,Butter,12,595.44,128.5
+243,2025-03-05,Customer_0133,United Kingdom,Europe,Vegetables,Potato,14,515.34,115.25
+244,2025-06-27,Customer_0133,United Kingdom,Europe,Flour,Besan,6,311.4,59.75
+245,2025-03-06,Customer_0161,Australia,Oceania,Spices,Turmeric,7,712.53,114.12
+246,2025-10-25,Customer_0040,China,Asia,Spices,Garam Masala,3,283.92,23.77
+247,2025-01-24,Customer_0165,Italy,Europe,Flour,Besan,2,136.96,7.63
+248,2025-09-12,Customer_0161,Canada,North America,Vegetables,Tomato,19,665.0,118.24
+249,2025-07-27,Customer_0077,Australia,Oceania,Fruits,Banana,16,717.6,151.75
+250,2025-04-15,Customer_0088,India,Asia,Dairy,Milk,6,364.98,53.6
+251,2025-07-24,Customer_0034,Germany,Europe,Vegetables,Potato,11,458.37,101.83
+252,2025-05-17,Customer_0116,China,Asia,Beverages,Juice,4,301.28,43.17
+253,2025-11-12,Customer_0108,United States,North America,Oil,Sunflower Oil,2,258.76,32.82
+254,2025-03-23,Customer_0128,Germany,Europe,Oil,Sunflower Oil,19,3145.83,276.73
+255,2025-07-21,Customer_0130,Japan,Asia,Fruits,Banana,10,524.2,35.65
+256,2025-09-11,Customer_0153,Canada,North America,Dairy,Milk,19,1096.3,65.9
+257,2025-05-16,Customer_0187,China,Asia,Dairy,Curd,1,75.5,10.28
+258,2025-04-10,Customer_0093,Germany,Europe,Beverages,Coffee,2,158.46,26.0
+259,2025-05-24,Customer_0160,United States,North America,Fruits,Banana,13,684.19,138.81
+260,2025-06-23,Customer_0143,United Kingdom,Europe,Vegetables,Potato,4,138.08,28.86
+261,2025-01-24,Customer_0010,Canada,North America,Beverages,Tea,20,1688.8,253.35
+262,2025-09-21,Customer_0036,Japan,Asia,Flour,Besan,17,957.61,163.99
+263,2025-06-03,Customer_0152,Germany,Europe,Beverages,Juice,6,473.16,82.0
+264,2025-09-01,Customer_0005,China,Asia,Beverages,Juice,18,1503.18,244.39
+265,2025-12-19,Customer_0162,United States,North America,Beverages,Coffee,14,1232.28,257.98
+266,2025-10-26,Customer_0123,Australia,Oceania,Rice,Brown Rice,19,1458.44,283.35
+267,2025-02-26,Customer_0049,United Kingdom,Europe,Flour,Besan,8,338.32,81.08
+268,2025-07-30,Customer_0129,Germany,Europe,Rice,Brown Rice,14,824.04,155.0
+269,2025-12-06,Customer_0123,India,Asia,Vegetables,Tomato,5,185.7,30.12
+270,2025-10-07,Customer_0091,Germany,Europe,Fruits,Banana,6,307.74,48.2
+271,2025-06-02,Customer_0058,Japan,Asia,Spices,Garam Masala,7,834.4,88.28
+272,2025-05-21,Customer_0074,Canada,North America,Spices,Chilli Powder,16,1353.92,162.15
+273,2025-06-26,Customer_0198,China,Asia,Dal,Masoor Dal,13,2008.37,258.89
+274,2025-08-15,Customer_0168,India,Asia,Flour,Besan,10,727.8,47.89
+275,2025-10-15,Customer_0179,Japan,Asia,Spices,Garam Masala,7,548.87,86.57
+276,2025-01-26,Customer_0172,United States,North America,Spices,Turmeric,20,2150.2,210.41
+277,2025-08-30,Customer_0026,Canada,North America,Fruits,Apple,2,81.02,9.4
+278,2025-09-01,Customer_0123,China,Asia,Flour,Wheat Flour,6,328.08,77.76
+279,2025-02-15,Customer_0167,Germany,Europe,Oil,Groundnut Oil,10,1592.6,368.83
+280,2025-04-01,Customer_0010,China,Asia,Vegetables,Potato,2,90.86,7.72
+281,2025-10-18,Customer_0155,United Kingdom,Europe,Snacks,Chips,10,574.2,29.77
+282,2025-09-10,Customer_0035,Australia,Oceania,Dal,Moong Dal,15,2418.3,383.69
+283,2025-08-23,Customer_0166,Australia,Oceania,Fruits,Banana,7,432.32,50.21
+284,2025-10-18,Customer_0173,United Kingdom,Europe,Spices,Garam Masala,1,107.28,22.33
+285,2025-02-14,Customer_0103,Italy,Europe,Oil,Sunflower Oil,13,2268.11,347.15
+286,2025-05-14,Customer_0099,United Kingdom,Europe,Dal,Toor Dal,16,1812.8,180.57
+287,2025-01-06,Customer_0067,Australia,Oceania,Oil,Groundnut Oil,11,1433.96,279.01
+288,2025-03-23,Customer_0104,Canada,North America,Beverages,Juice,2,184.1,26.34
+289,2025-07-08,Customer_0158,Australia,Oceania,Fruits,Orange,4,226.64,53.97
+290,2025-11-07,Customer_0096,United Kingdom,Europe,Oil,Sunflower Oil,16,1885.92,376.33
+291,2025-04-22,Customer_0196,China,Asia,Snacks,Namkeen,16,867.2,182.46
+292,2025-10-16,Customer_0029,China,Asia,Oil,Sunflower Oil,15,2240.55,274.15
+293,2025-09-24,Customer_0114,Italy,Europe,Rice,Basmati Rice,18,1058.22,122.36
+294,2025-08-17,Customer_0015,Canada,North America,Dal,Masoor Dal,19,2378.8,546.6
+295,2025-08-25,Customer_0173,China,Asia,Dairy,Milk,14,860.16,52.94
+296,2025-04-22,Customer_0149,India,Asia,Spices,Garam Masala,13,1056.12,53.44
+297,2025-01-31,Customer_0018,France,Europe,Dal,Toor Dal,12,1685.16,266.65
+298,2025-11-25,Customer_0187,Australia,Oceania,Dairy,Milk,14,720.72,55.56
+299,2025-07-12,Customer_0021,France,Europe,Snacks,Chips,15,858.45,198.61
+300,2025-09-28,Customer_0033,Germany,Europe,Fruits,Apple,4,171.4,26.99
+301,2025-08-06,Customer_0137,India,Asia,Oil,Sunflower Oil,10,1438.9,278.89
+302,2025-02-27,Customer_0009,Canada,North America,Snacks,Biscuits,15,646.5,67.97
+303,2025-01-18,Customer_0115,India,Asia,Snacks,Namkeen,8,314.48,22.07
+304,2025-04-30,Customer_0139,India,Asia,Vegetables,Onion,8,334.4,43.62
+305,2025-10-22,Customer_0082,United Kingdom,Europe,Oil,Sunflower Oil,17,3203.65,310.22
+306,2025-12-05,Customer_0134,Germany,Europe,Vegetables,Onion,8,260.72,20.51
+307,2025-03-31,Customer_0161,Australia,Oceania,Oil,Groundnut Oil,9,991.08,237.57
+308,2025-12-10,Customer_0098,Japan,Asia,Snacks,Namkeen,2,120.0,28.6
+309,2025-10-03,Customer_0122,France,Europe,Fruits,Banana,14,587.72,73.64
+310,2025-10-15,Customer_0106,Australia,Oceania,Oil,Sunflower Oil,5,863.45,201.14
+311,2025-06-19,Customer_0166,China,Asia,Snacks,Namkeen,5,221.2,22.34
+312,2025-01-27,Customer_0069,Germany,Europe,Dal,Moong Dal,3,385.71,83.27
+313,2025-10-28,Customer_0186,Italy,Europe,Snacks,Namkeen,20,696.4,44.96
+314,2025-01-08,Customer_0055,Japan,Asia,Fruits,Apple,7,445.06,51.89
+315,2025-07-23,Customer_0062,Japan,Asia,Oil,Sunflower Oil,8,1307.44,249.4
+316,2025-06-07,Customer_0067,Australia,Oceania,Fruits,Banana,13,669.37,120.32
+317,2025-08-29,Customer_0195,Japan,Asia,Beverages,Juice,15,970.95,239.11
+318,2025-04-24,Customer_0190,Germany,Europe,Beverages,Tea,11,878.57,142.77
+319,2025-08-02,Customer_0076,Australia,Oceania,Flour,Wheat Flour,18,1297.8,215.21
+320,2025-09-13,Customer_0141,Germany,Europe,Flour,Wheat Flour,8,430.24,93.22
+321,2025-06-30,Customer_0044,Japan,Asia,Beverages,Coffee,16,1313.92,258.26
+322,2025-09-26,Customer_0009,United Kingdom,Europe,Flour,Besan,18,1330.74,321.3
+323,2025-04-29,Customer_0018,India,Asia,Dal,Masoor Dal,1,119.69,26.15
+324,2025-11-23,Customer_0171,Canada,North America,Flour,Wheat Flour,17,957.1,59.43
+325,2025-01-07,Customer_0005,Japan,Asia,Vegetables,Tomato,1,26.39,4.23
+326,2025-12-24,Customer_0173,Australia,Oceania,Fruits,Orange,18,1202.76,64.26
+327,2025-11-14,Customer_0135,United States,North America,Snacks,Biscuits,4,191.64,18.82
+328,2025-08-24,Customer_0145,Australia,Oceania,Spices,Chilli Powder,13,933.01,225.66
+329,2025-01-17,Customer_0024,Australia,Oceania,Oil,Sunflower Oil,3,479.73,106.33
+330,2025-12-26,Customer_0044,France,Europe,Snacks,Chips,18,838.8,148.76
+331,2025-02-18,Customer_0136,France,Europe,Dal,Moong Dal,11,1438.14,318.68
+332,2025-02-08,Customer_0176,Canada,North America,Rice,Basmati Rice,19,1376.93,81.67
+333,2025-01-09,Customer_0054,Italy,Europe,Spices,Garam Masala,2,154.38,33.98
+334,2025-10-18,Customer_0100,France,Europe,Vegetables,Potato,3,97.59,15.89
+335,2025-02-10,Customer_0129,France,Europe,Fruits,Banana,5,306.05,57.5
+336,2025-11-06,Customer_0197,United States,North America,Beverages,Tea,14,995.96,64.94
+337,2025-08-19,Customer_0126,France,Europe,Vegetables,Onion,11,295.57,30.94
+338,2025-12-05,Customer_0098,China,Asia,Oil,Groundnut Oil,13,1836.64,341.5
+339,2025-03-20,Customer_0098,Australia,Oceania,Dal,Masoor Dal,8,1130.72,75.09
+340,2025-06-07,Customer_0114,Germany,Europe,Flour,Besan,12,537.24,27.42
+341,2025-10-13,Customer_0143,United States,North America,Beverages,Coffee,5,320.95,43.71
+342,2025-11-02,Customer_0154,United States,North America,Fruits,Banana,1,40.19,6.46
+343,2025-10-14,Customer_0063,India,Asia,Beverages,Coffee,10,798.6,164.38
+344,2025-05-18,Customer_0127,United Kingdom,Europe,Vegetables,Onion,13,387.53,40.22
+345,2025-02-09,Customer_0093,United Kingdom,Europe,Flour,Wheat Flour,14,705.04,77.52
+346,2025-03-11,Customer_0078,Japan,Asia,Spices,Turmeric,20,2016.0,285.41
+347,2025-08-14,Customer_0086,Germany,Europe,Rice,Brown Rice,20,1369.2,304.56
+348,2025-12-22,Customer_0052,Italy,Europe,Snacks,Namkeen,5,209.3,35.72
+349,2025-12-22,Customer_0163,United Kingdom,Europe,Dairy,Curd,13,1038.31,112.44
+350,2025-07-21,Customer_0094,Canada,North America,Dairy,Butter,11,643.94,137.35
+351,2025-10-09,Customer_0007,Canada,North America,Dal,Masoor Dal,19,3074.2,264.34
+352,2025-02-05,Customer_0105,Canada,North America,Dairy,Butter,15,1105.8,239.14
+353,2025-08-05,Customer_0097,Australia,Oceania,Dairy,Milk,8,432.8,34.98
+354,2025-12-21,Customer_0108,Italy,Europe,Dal,Moong Dal,16,2110.72,331.12
+355,2025-02-25,Customer_0197,Germany,Europe,Fruits,Apple,18,995.58,231.85
+356,2025-12-13,Customer_0166,United Kingdom,Europe,Oil,Groundnut Oil,20,2174.4,536.47
+357,2025-09-19,Customer_0192,France,Europe,Snacks,Chips,4,136.12,13.85
+358,2025-08-26,Customer_0198,Italy,Europe,Fruits,Orange,19,838.47,104.66
+359,2025-02-23,Customer_0076,China,Asia,Vegetables,Onion,5,167.45,9.2
+360,2025-04-16,Customer_0134,United States,North America,Snacks,Biscuits,5,215.75,25.59
+361,2025-06-13,Customer_0018,Japan,Asia,Dairy,Curd,4,243.08,46.03
+362,2025-12-13,Customer_0043,United States,North America,Spices,Turmeric,1,113.36,20.36
+363,2025-08-25,Customer_0060,China,Asia,Oil,Sunflower Oil,6,796.8,107.79
+364,2025-01-15,Customer_0189,United Kingdom,Europe,Snacks,Namkeen,6,306.24,41.78
+365,2025-04-20,Customer_0053,Japan,Asia,Vegetables,Potato,19,670.13,34.1
+366,2025-04-06,Customer_0094,United States,North America,Spices,Garam Masala,19,1386.81,311.19
+367,2025-09-28,Customer_0164,Japan,Asia,Beverages,Tea,4,290.36,64.61
+368,2025-06-30,Customer_0118,France,Europe,Beverages,Juice,20,1576.8,114.86
+369,2025-06-10,Customer_0031,Australia,Oceania,Vegetables,Potato,20,772.8,142.52
+370,2025-07-18,Customer_0108,United States,North America,Oil,Groundnut Oil,6,818.16,64.04
+371,2025-10-03,Customer_0178,Italy,Europe,Vegetables,Potato,13,456.69,67.29
+372,2025-08-19,Customer_0159,Japan,Asia,Flour,Wheat Flour,10,458.8,51.81
+373,2025-10-15,Customer_0130,India,Asia,Rice,Brown Rice,16,931.68,198.49
+374,2025-03-27,Customer_0022,Japan,Asia,Dairy,Curd,14,987.98,137.1
+375,2025-05-28,Customer_0044,Canada,North America,Vegetables,Potato,10,269.4,25.58
+376,2025-05-18,Customer_0199,Japan,Asia,Dairy,Butter,18,1141.02,187.75
+377,2025-04-22,Customer_0109,China,Asia,Fruits,Banana,2,120.6,16.68
+378,2025-05-15,Customer_0090,Canada,North America,Dal,Masoor Dal,10,1529.9,86.36
+379,2025-12-19,Customer_0090,United States,North America,Dal,Moong Dal,8,840.88,166.09
+380,2025-04-16,Customer_0016,France,Europe,Vegetables,Onion,6,235.14,48.67
+381,2025-12-27,Customer_0075,China,Asia,Vegetables,Tomato,9,349.02,29.2
+382,2025-02-18,Customer_0035,Australia,Oceania,Spices,Garam Masala,17,2052.24,381.43
+383,2025-03-16,Customer_0183,Australia,Oceania,Snacks,Biscuits,5,263.45,20.16
+384,2025-11-18,Customer_0107,France,Europe,Beverages,Tea,16,1069.12,188.68
+385,2025-12-22,Customer_0095,United States,North America,Snacks,Chips,3,133.89,26.77
+386,2025-02-17,Customer_0188,Germany,Europe,Dairy,Curd,19,856.71,175.48
+387,2025-08-08,Customer_0055,Germany,Europe,Dairy,Butter,3,220.92,28.62
+388,2025-10-17,Customer_0125,Germany,Europe,Dairy,Curd,10,571.6,94.65
+389,2025-08-24,Customer_0005,India,Asia,Beverages,Juice,2,129.56,26.79
+390,2025-04-14,Customer_0177,Japan,Asia,Dal,Toor Dal,15,1350.75,326.35
+391,2025-02-12,Customer_0096,United Kingdom,Europe,Flour,Besan,9,398.97,48.71
+392,2025-08-08,Customer_0168,France,Europe,Flour,Wheat Flour,10,652.1,131.1
+393,2025-10-31,Customer_0058,United States,North America,Dal,Masoor Dal,1,105.37,6.91
+394,2025-03-03,Customer_0109,Japan,Asia,Fruits,Orange,1,37.74,4.48
+395,2025-02-22,Customer_0027,United States,North America,Flour,Besan,8,431.12,84.57
+396,2025-03-10,Customer_0165,Australia,Oceania,Beverages,Coffee,5,391.85,83.34
+397,2025-08-14,Customer_0090,China,Asia,Flour,Wheat Flour,19,789.07,142.04
+398,2025-02-14,Customer_0026,France,Europe,Oil,Sunflower Oil,20,3253.4,722.23
+399,2025-03-13,Customer_0064,Italy,Europe,Flour,Wheat Flour,13,687.05,93.35
+400,2025-11-08,Customer_0073,United States,North America,Spices,Garam Masala,8,779.04,132.44
+401,2025-07-20,Customer_0076,Canada,North America,Rice,Brown Rice,17,1325.83,116.31
+402,2025-11-01,Customer_0019,Japan,Asia,Rice,Basmati Rice,13,744.12,111.56
+403,2025-10-19,Customer_0108,Germany,Europe,Fruits,Apple,11,456.06,101.32
+404,2025-01-09,Customer_0151,United Kingdom,Europe,Beverages,Juice,16,1692.96,345.49
+405,2025-07-23,Customer_0130,Australia,Oceania,Dal,Toor Dal,7,650.09,40.37
+406,2025-11-24,Customer_0138,China,Asia,Spices,Garam Masala,14,1265.18,165.05
+407,2025-04-15,Customer_0040,United Kingdom,Europe,Fruits,Orange,9,360.09,23.7
+408,2025-12-15,Customer_0165,France,Europe,Fruits,Banana,19,1074.07,232.97
+409,2025-08-11,Customer_0030,France,Europe,Dal,Moong Dal,8,753.36,50.66
+410,2025-03-31,Customer_0031,Italy,Europe,Dairy,Butter,2,112.26,22.27
+411,2025-09-22,Customer_0185,India,Asia,Rice,Basmati Rice,6,440.1,52.52
+412,2025-03-02,Customer_0198,Germany,Europe,Spices,Turmeric,5,539.95,121.32
+413,2025-10-23,Customer_0161,France,Europe,Rice,Brown Rice,9,670.5,68.79
+414,2025-10-18,Customer_0043,Japan,Asia,Dal,Moong Dal,17,1970.81,295.47
+415,2025-03-01,Customer_0059,Australia,Oceania,Beverages,Tea,4,411.68,76.09
+416,2025-07-16,Customer_0039,India,Asia,Fruits,Apple,1,44.84,6.47
+417,2025-06-13,Customer_0070,China,Asia,Flour,Wheat Flour,14,681.24,67.89
+418,2025-04-02,Customer_0058,Germany,Europe,Dal,Masoor Dal,4,504.6,116.25
+419,2025-06-09,Customer_0084,France,Europe,Fruits,Apple,3,191.43,42.73
+420,2025-06-05,Customer_0190,Japan,Asia,Dal,Masoor Dal,1,116.56,12.63
+421,2025-04-11,Customer_0188,Japan,Asia,Vegetables,Potato,12,464.16,69.01
+422,2025-10-05,Customer_0089,United Kingdom,Europe,Fruits,Apple,1,65.47,3.59
+423,2025-02-23,Customer_0053,India,Asia,Rice,Brown Rice,13,1146.08,223.99
+424,2025-03-14,Customer_0183,France,Europe,Fruits,Apple,16,1061.44,259.53
+425,2025-12-25,Customer_0096,India,Asia,Spices,Turmeric,8,927.6,142.81
+426,2025-07-21,Customer_0020,United States,North America,Dairy,Butter,19,920.36,70.59
+427,2025-05-30,Customer_0067,India,Asia,Vegetables,Onion,14,562.24,42.81
+428,2025-04-14,Customer_0035,Germany,Europe,Beverages,Coffee,11,899.03,86.96
+429,2025-07-28,Customer_0031,United Kingdom,Europe,Vegetables,Potato,4,118.8,17.01
+430,2025-03-03,Customer_0024,Canada,North America,Fruits,Banana,15,701.25,72.23
+431,2025-03-17,Customer_0024,Italy,Europe,Flour,Besan,2,96.7,21.4
+432,2025-03-31,Customer_0008,France,Europe,Oil,Groundnut Oil,17,1854.87,203.61
+433,2025-03-13,Customer_0032,China,Asia,Snacks,Chips,18,729.0,103.82
+434,2025-12-18,Customer_0162,Canada,North America,Rice,Basmati Rice,5,304.1,39.57
+435,2025-02-03,Customer_0051,Italy,Europe,Dal,Masoor Dal,9,1404.45,91.29
+436,2025-01-26,Customer_0044,United States,North America,Dairy,Milk,11,543.51,129.6
+437,2025-03-30,Customer_0091,France,Europe,Vegetables,Tomato,16,429.92,80.24
+438,2025-11-11,Customer_0159,Australia,Oceania,Oil,Sunflower Oil,9,1282.14,102.22
+439,2025-02-01,Customer_0023,Australia,Oceania,Vegetables,Potato,16,558.4,89.42
+440,2025-09-27,Customer_0064,United Kingdom,Europe,Spices,Chilli Powder,14,1095.78,248.67
+441,2025-06-26,Customer_0145,France,Europe,Fruits,Apple,12,622.68,128.45
+442,2025-04-23,Customer_0008,France,Europe,Fruits,Banana,9,386.01,43.92
+443,2025-04-30,Customer_0041,Japan,Asia,Spices,Turmeric,17,1475.6,246.13
+444,2025-01-29,Customer_0196,Canada,North America,Dal,Toor Dal,9,1155.87,240.71
+445,2025-12-24,Customer_0092,Germany,Europe,Oil,Groundnut Oil,6,718.74,121.11
+446,2025-04-07,Customer_0127,Germany,Europe,Vegetables,Potato,19,723.71,117.69
+447,2025-11-05,Customer_0057,United Kingdom,Europe,Fruits,Banana,16,618.24,37.86
+448,2025-03-08,Customer_0088,India,Asia,Rice,Brown Rice,11,1001.55,90.43
+449,2025-03-14,Customer_0199,India,Asia,Flour,Besan,1,46.12,8.81
+450,2025-07-22,Customer_0151,Germany,Europe,Dal,Masoor Dal,3,350.7,83.6
+451,2025-08-12,Customer_0164,Australia,Oceania,Dal,Moong Dal,11,1098.02,89.49
+452,2025-11-11,Customer_0092,Germany,Europe,Dairy,Butter,6,422.76,68.65
+453,2025-04-01,Customer_0187,France,Europe,Oil,Sunflower Oil,10,1666.6,181.5
+454,2025-11-10,Customer_0057,Italy,Europe,Rice,Brown Rice,2,120.3,13.67
+455,2025-06-27,Customer_0082,Japan,Asia,Vegetables,Potato,5,166.0,10.88
+456,2025-12-21,Customer_0018,Germany,Europe,Flour,Wheat Flour,15,624.45,57.41
+457,2025-08-03,Customer_0043,United States,North America,Beverages,Coffee,1,62.31,8.58
+458,2025-09-03,Customer_0148,France,Europe,Snacks,Chips,12,581.88,40.9
+459,2025-01-11,Customer_0082,Japan,Asia,Oil,Sunflower Oil,3,516.39,29.27
+460,2025-02-08,Customer_0141,United States,North America,Spices,Turmeric,11,843.59,105.53
+461,2025-08-09,Customer_0168,Italy,Europe,Dal,Moong Dal,20,3086.2,589.16
+462,2025-04-08,Customer_0105,United Kingdom,Europe,Flour,Besan,2,89.18,8.13
+463,2025-02-19,Customer_0013,China,Asia,Fruits,Orange,9,515.88,56.48
+464,2025-08-07,Customer_0023,China,Asia,Snacks,Namkeen,16,606.4,74.08
+465,2025-03-29,Customer_0164,Italy,Europe,Spices,Garam Masala,16,1252.48,69.07
+466,2025-09-08,Customer_0170,Japan,Asia,Spices,Turmeric,4,336.6,43.59
+467,2025-07-09,Customer_0048,China,Asia,Spices,Turmeric,13,1007.24,228.74
+468,2025-05-18,Customer_0145,Australia,Oceania,Dairy,Milk,15,926.1,88.21
+469,2025-07-31,Customer_0194,United States,North America,Rice,Basmati Rice,3,241.68,51.15
+470,2025-08-03,Customer_0138,China,Asia,Vegetables,Potato,2,87.82,18.77
+471,2025-01-18,Customer_0129,Canada,North America,Dairy,Butter,16,892.16,115.05
+472,2025-08-18,Customer_0045,Italy,Europe,Vegetables,Onion,20,587.0,140.79
+473,2025-12-16,Customer_0112,Canada,North America,Flour,Wheat Flour,5,213.3,14.01
+474,2025-02-04,Customer_0023,Italy,Europe,Oil,Sunflower Oil,9,1186.74,231.91
+475,2025-08-23,Customer_0004,France,Europe,Snacks,Namkeen,18,766.08,80.62
+476,2025-10-18,Customer_0151,China,Asia,Vegetables,Onion,14,400.54,32.01
+477,2025-10-02,Customer_0089,United States,North America,Vegetables,Potato,19,809.78,167.75
+478,2025-03-30,Customer_0071,France,Europe,Snacks,Chips,16,787.04,113.81
+479,2025-07-22,Customer_0085,Italy,Europe,Snacks,Biscuits,20,1042.6,135.9
+480,2025-06-05,Customer_0080,Japan,Asia,Oil,Sunflower Oil,9,1623.15,87.73
+481,2025-08-15,Customer_0199,United States,North America,Spices,Chilli Powder,8,598.08,146.44
+482,2025-04-19,Customer_0105,France,Europe,Beverages,Coffee,20,1819.8,159.39
+483,2025-06-09,Customer_0182,Germany,Europe,Dairy,Butter,2,127.1,10.4
+484,2025-04-09,Customer_0052,United Kingdom,Europe,Fruits,Banana,17,1085.96,60.59
+485,2025-04-12,Customer_0071,India,Asia,Rice,Basmati Rice,15,819.3,100.02
+486,2025-01-16,Customer_0062,China,Asia,Beverages,Coffee,13,1176.5,87.97
+487,2025-10-28,Customer_0142,Italy,Europe,Beverages,Coffee,15,1027.8,230.33
+488,2025-05-26,Customer_0008,United Kingdom,Europe,Beverages,Coffee,9,863.55,162.15
+489,2025-04-24,Customer_0166,United Kingdom,Europe,Snacks,Biscuits,19,1041.39,96.71
+490,2025-12-16,Customer_0003,Australia,Oceania,Oil,Sunflower Oil,14,2073.68,462.28
+491,2025-11-08,Customer_0079,United Kingdom,Europe,Dairy,Milk,20,1476.6,139.91
+492,2025-06-04,Customer_0174,France,Europe,Spices,Chilli Powder,12,1107.48,103.71
+493,2025-12-06,Customer_0096,France,Europe,Fruits,Orange,19,770.83,117.4
+494,2025-09-04,Customer_0017,Italy,Europe,Fruits,Orange,20,919.6,171.86
+495,2025-11-30,Customer_0077,Germany,Europe,Beverages,Coffee,9,652.86,125.49
+496,2025-11-04,Customer_0104,China,Asia,Oil,Sunflower Oil,8,1444.56,304.93
+497,2025-05-13,Customer_0108,United Kingdom,Europe,Beverages,Juice,1,91.46,22.82
+498,2025-04-08,Customer_0088,India,Asia,Snacks,Chips,19,1004.53,165.15
+499,2025-12-03,Customer_0143,Germany,Europe,Oil,Groundnut Oil,17,2213.74,185.95
+500,2025-10-14,Customer_0196,United States,North America,Flour,Besan,16,727.52,74.01
+501,2025-06-07,Customer_0108,United States,North America,Flour,Besan,8,423.76,84.26
+502,2025-08-29,Customer_0014,Australia,Oceania,Beverages,Coffee,19,1408.09,310.12
+503,2025-03-03,Customer_0175,Italy,Europe,Vegetables,Onion,3,108.51,9.65
+504,2025-03-12,Customer_0052,Australia,Oceania,Snacks,Namkeen,14,492.94,108.86
+505,2025-04-03,Customer_0200,Italy,Europe,Beverages,Coffee,15,1003.05,223.16
+506,2025-08-20,Customer_0071,Germany,Europe,Dal,Moong Dal,6,675.42,41.61
+507,2025-02-15,Customer_0034,Italy,Europe,Oil,Sunflower Oil,6,876.72,177.72
+508,2025-01-03,Customer_0010,France,Europe,Vegetables,Tomato,13,458.38,66.69
+509,2025-09-29,Customer_0049,Germany,Europe,Fruits,Apple,1,64.26,12.94
+510,2025-03-08,Customer_0027,Canada,North America,Rice,Basmati Rice,8,653.04,77.63
+511,2025-06-02,Customer_0075,Italy,Europe,Snacks,Namkeen,10,382.6,82.17
+512,2025-12-18,Customer_0035,China,Asia,Dairy,Butter,20,1277.4,174.66
+513,2025-07-26,Customer_0005,Germany,Europe,Beverages,Coffee,7,475.37,109.99
+514,2025-03-28,Customer_0032,United Kingdom,Europe,Oil,Sunflower Oil,7,1166.62,195.92
+515,2025-10-01,Customer_0160,India,Asia,Beverages,Juice,13,1326.91,134.23
+516,2025-08-16,Customer_0098,United States,North America,Rice,Basmati Rice,1,54.53,3.99
+517,2025-12-18,Customer_0162,Australia,Oceania,Dal,Masoor Dal,16,2248.48,204.83
+518,2025-11-07,Customer_0180,France,Europe,Rice,Brown Rice,4,321.28,33.41
+519,2025-02-28,Customer_0028,United States,North America,Flour,Besan,17,1104.49,81.23
+520,2025-04-14,Customer_0092,Italy,Europe,Dairy,Milk,7,511.07,110.54
+521,2025-12-19,Customer_0124,United Kingdom,Europe,Snacks,Chips,2,97.1,22.53
+522,2025-10-21,Customer_0172,India,Asia,Beverages,Tea,1,92.24,21.34
+523,2025-05-12,Customer_0165,United States,North America,Dairy,Milk,17,810.9,157.89
+524,2025-03-31,Customer_0011,Australia,Oceania,Oil,Groundnut Oil,9,1296.0,90.67
+525,2025-01-24,Customer_0003,Germany,Europe,Spices,Chilli Powder,14,1503.32,103.73
+526,2025-05-18,Customer_0188,Germany,Europe,Flour,Wheat Flour,12,849.24,204.68
+527,2025-08-22,Customer_0070,Germany,Europe,Dal,Moong Dal,6,589.2,76.63
+528,2025-02-27,Customer_0034,Japan,Asia,Snacks,Namkeen,14,717.78,150.29
+529,2025-10-19,Customer_0174,United States,North America,Rice,Basmati Rice,14,1270.78,186.21
+530,2025-12-17,Customer_0187,Italy,Europe,Dairy,Milk,13,949.65,163.6
+531,2025-02-02,Customer_0067,Japan,Asia,Flour,Besan,4,282.16,38.98
+532,2025-12-09,Customer_0087,China,Asia,Beverages,Tea,19,1800.06,170.64
+533,2025-09-04,Customer_0089,Italy,Europe,Fruits,Orange,4,201.96,39.45
+534,2025-03-22,Customer_0130,China,Asia,Snacks,Biscuits,20,704.4,125.86
+535,2025-06-19,Customer_0072,United Kingdom,Europe,Dairy,Curd,3,216.15,24.67
+536,2025-08-24,Customer_0114,China,Asia,Rice,Basmati Rice,13,902.72,87.56
+537,2025-09-12,Customer_0191,United States,North America,Vegetables,Tomato,16,570.24,42.05
+538,2025-02-16,Customer_0155,France,Europe,Rice,Basmati Rice,14,756.0,120.82
+539,2025-08-22,Customer_0088,Australia,Oceania,Vegetables,Onion,17,647.02,117.06
+540,2025-11-04,Customer_0122,Canada,North America,Beverages,Tea,15,1138.95,231.76
+541,2025-01-02,Customer_0088,Japan,Asia,Beverages,Juice,4,258.72,47.03
+542,2025-01-24,Customer_0043,Australia,Oceania,Beverages,Juice,18,1531.08,291.55
+543,2025-03-03,Customer_0101,France,Europe,Dairy,Milk,4,216.6,19.32
+544,2025-11-21,Customer_0173,Canada,North America,Oil,Groundnut Oil,11,1254.55,166.72
+545,2025-03-10,Customer_0128,Japan,Asia,Vegetables,Potato,15,601.2,145.03
+546,2025-09-18,Customer_0200,China,Asia,Rice,Basmati Rice,14,1228.22,180.04
+547,2025-06-14,Customer_0130,United Kingdom,Europe,Flour,Wheat Flour,4,216.12,36.76
+548,2025-05-31,Customer_0116,Italy,Europe,Snacks,Chips,8,329.12,79.88
+549,2025-06-03,Customer_0180,France,Europe,Flour,Wheat Flour,20,1287.0,257.0
+550,2025-05-29,Customer_0176,China,Asia,Fruits,Banana,7,304.71,53.27
+551,2025-06-15,Customer_0182,United Kingdom,Europe,Beverages,Juice,6,505.14,95.4
+552,2025-12-30,Customer_0107,China,Asia,Dal,Moong Dal,16,2111.36,503.63
+553,2025-03-16,Customer_0014,France,Europe,Fruits,Banana,1,53.18,2.93
+554,2025-03-16,Customer_0016,Australia,Oceania,Rice,Basmati Rice,6,562.86,105.07
+555,2025-11-12,Customer_0173,China,Asia,Spices,Turmeric,2,173.74,24.41
+556,2025-12-23,Customer_0074,China,Asia,Fruits,Apple,13,580.19,120.02
+557,2025-06-10,Customer_0142,France,Europe,Rice,Brown Rice,14,1297.52,318.11
+558,2025-08-15,Customer_0058,Australia,Oceania,Rice,Basmati Rice,7,549.92,113.39
+559,2025-04-10,Customer_0076,China,Asia,Beverages,Juice,20,1388.6,270.75
+560,2025-03-03,Customer_0097,United States,North America,Dairy,Milk,6,477.9,94.15
+561,2025-05-11,Customer_0002,Australia,Oceania,Rice,Brown Rice,18,1144.8,94.09
+562,2025-01-27,Customer_0199,United Kingdom,Europe,Beverages,Coffee,2,134.76,15.43
+563,2025-02-07,Customer_0182,Australia,Oceania,Vegetables,Onion,16,685.44,109.69
+564,2025-03-23,Customer_0107,Canada,North America,Beverages,Juice,6,509.94,105.69
+565,2025-12-06,Customer_0085,France,Europe,Fruits,Orange,3,143.94,32.63
+566,2025-09-01,Customer_0144,Australia,Oceania,Beverages,Coffee,7,739.27,128.38
+567,2025-11-15,Customer_0063,Germany,Europe,Rice,Basmati Rice,15,938.85,167.54
+568,2025-05-25,Customer_0007,France,Europe,Rice,Brown Rice,4,274.84,43.44
+569,2025-11-30,Customer_0050,China,Asia,Fruits,Banana,17,864.79,50.82
+570,2025-10-03,Customer_0137,United States,North America,Beverages,Juice,4,272.12,65.65
+571,2025-02-23,Customer_0053,Canada,North America,Rice,Basmati Rice,7,621.81,83.85
+572,2025-08-24,Customer_0184,France,Europe,Fruits,Orange,3,179.73,14.51
+573,2025-10-13,Customer_0019,United States,North America,Beverages,Tea,3,187.8,39.22
+574,2025-08-10,Customer_0081,Australia,Oceania,Vegetables,Potato,14,481.6,84.78
+575,2025-02-02,Customer_0194,United States,North America,Rice,Brown Rice,18,949.5,184.26
+576,2025-12-18,Customer_0078,United States,North America,Vegetables,Potato,12,548.88,39.1
+577,2025-01-16,Customer_0122,Australia,Oceania,Vegetables,Potato,15,513.9,110.19
+578,2025-06-01,Customer_0163,United Kingdom,Europe,Flour,Wheat Flour,13,878.02,193.07
+579,2025-03-05,Customer_0011,Germany,Europe,Flour,Besan,1,59.52,9.58
+580,2025-06-26,Customer_0055,China,Asia,Rice,Brown Rice,18,1660.86,184.25
+581,2025-05-10,Customer_0050,China,Asia,Snacks,Namkeen,5,190.5,17.94
+582,2025-10-09,Customer_0119,Italy,Europe,Dal,Toor Dal,2,302.6,71.56
+583,2025-10-25,Customer_0125,Australia,Oceania,Fruits,Apple,3,135.06,12.09
+584,2025-04-10,Customer_0082,United Kingdom,Europe,Beverages,Coffee,8,518.4,90.15
+585,2025-03-20,Customer_0145,Germany,Europe,Dairy,Curd,20,1374.8,259.41
+586,2025-04-24,Customer_0183,Germany,Europe,Vegetables,Tomato,14,417.06,46.98
+587,2025-09-03,Customer_0119,Germany,Europe,Snacks,Chips,5,260.5,30.3
+588,2025-11-07,Customer_0021,Australia,Oceania,Dairy,Curd,16,1037.76,88.37
+589,2025-02-09,Customer_0187,China,Asia,Spices,Turmeric,7,571.97,129.99
+590,2025-10-30,Customer_0055,China,Asia,Dal,Toor Dal,1,148.51,24.62
+591,2025-07-07,Customer_0101,China,Asia,Rice,Brown Rice,18,1301.94,266.95
+592,2025-07-06,Customer_0129,United Kingdom,Europe,Oil,Groundnut Oil,15,2206.35,150.28
+593,2025-03-23,Customer_0046,Italy,Europe,Rice,Basmati Rice,6,505.8,39.49
+594,2025-09-07,Customer_0060,United Kingdom,Europe,Vegetables,Onion,16,735.52,42.72
+595,2025-07-04,Customer_0100,Germany,Europe,Dal,Moong Dal,8,744.64,68.03
+596,2025-12-27,Customer_0134,India,Asia,Dairy,Curd,2,160.6,18.44
+597,2025-12-01,Customer_0097,Australia,Oceania,Spices,Garam Masala,19,1840.91,156.05
+598,2025-04-25,Customer_0133,United States,North America,Beverages,Juice,17,1225.36,299.64
+599,2025-01-04,Customer_0129,Germany,Europe,Snacks,Chips,16,882.4,200.69
+600,2025-04-19,Customer_0039,United Kingdom,Europe,Flour,Besan,8,350.32,62.6
+601,2025-04-28,Customer_0107,Germany,Europe,Flour,Wheat Flour,20,1298.4,95.65
+602,2025-10-30,Customer_0042,United States,North America,Beverages,Juice,16,1478.56,215.58
+603,2025-03-10,Customer_0162,Canada,North America,Snacks,Biscuits,2,74.4,12.53
+604,2025-04-03,Customer_0133,Italy,Europe,Fruits,Apple,5,195.9,19.91
+605,2025-05-26,Customer_0022,Italy,Europe,Snacks,Namkeen,1,57.47,11.24
+606,2025-07-30,Customer_0154,Italy,Europe,Oil,Groundnut Oil,16,2845.6,239.35
+607,2025-06-25,Customer_0117,Italy,Europe,Flour,Wheat Flour,17,849.66,165.55
+608,2025-01-09,Customer_0052,United States,North America,Vegetables,Onion,8,273.52,20.91
+609,2025-11-11,Customer_0154,France,Europe,Fruits,Orange,5,278.35,23.79
+610,2025-10-04,Customer_0001,United States,North America,Rice,Basmati Rice,16,1283.04,295.61
+611,2025-08-08,Customer_0059,France,Europe,Snacks,Namkeen,12,688.44,130.48
+612,2025-12-23,Customer_0148,Germany,Europe,Dairy,Curd,19,1405.43,325.46
+613,2025-02-12,Customer_0073,United Kingdom,Europe,Dal,Moong Dal,9,1119.15,108.0
+614,2025-01-04,Customer_0148,France,Europe,Vegetables,Onion,9,271.98,52.17
+615,2025-06-11,Customer_0105,China,Asia,Fruits,Apple,1,48.75,4.44
+616,2025-10-02,Customer_0109,United Kingdom,Europe,Beverages,Tea,14,1277.92,128.72
+617,2025-04-15,Customer_0106,Italy,Europe,Vegetables,Tomato,9,423.72,54.87
+618,2025-05-10,Customer_0079,Japan,Asia,Fruits,Orange,6,291.66,46.95
+619,2025-04-28,Customer_0115,France,Europe,Vegetables,Tomato,5,221.0,40.19
+620,2025-10-09,Customer_0158,Canada,North America,Flour,Wheat Flour,17,925.99,108.98
+621,2025-08-30,Customer_0154,France,Europe,Rice,Basmati Rice,1,86.28,18.52
+622,2025-01-20,Customer_0186,United States,North America,Snacks,Biscuits,9,357.66,23.61
+623,2025-01-30,Customer_0199,Italy,Europe,Snacks,Chips,17,705.16,171.15
+624,2025-09-23,Customer_0074,Japan,Asia,Flour,Besan,1,47.91,8.69
+625,2025-03-28,Customer_0173,Italy,Europe,Oil,Sunflower Oil,17,2521.61,242.92
+626,2025-05-22,Customer_0200,Canada,North America,Rice,Brown Rice,1,93.48,6.3
+627,2025-12-27,Customer_0018,France,Europe,Snacks,Chips,13,644.41,98.95
+628,2025-05-22,Customer_0058,Australia,Oceania,Dal,Masoor Dal,18,2805.84,335.63
+629,2025-07-28,Customer_0130,Japan,Asia,Vegetables,Potato,13,498.16,50.92
+630,2025-09-20,Customer_0066,United States,North America,Dal,Masoor Dal,17,1890.23,452.53
+631,2025-05-05,Customer_0194,Australia,Oceania,Fruits,Orange,15,997.2,162.18
+632,2025-05-13,Customer_0018,Japan,Asia,Beverages,Coffee,19,1926.22,281.99
+633,2025-06-30,Customer_0133,Canada,North America,Snacks,Namkeen,8,442.8,58.66
+634,2025-06-25,Customer_0020,Australia,Oceania,Fruits,Apple,8,368.96,47.89
+635,2025-05-18,Customer_0047,Japan,Asia,Fruits,Apple,11,529.21,121.12
+636,2025-04-16,Customer_0059,Canada,North America,Oil,Groundnut Oil,8,1334.24,299.6
+637,2025-02-10,Customer_0174,Italy,Europe,Oil,Sunflower Oil,12,1417.2,101.1
+638,2025-07-10,Customer_0159,India,Asia,Dairy,Butter,18,1430.82,314.21
+639,2025-09-19,Customer_0072,Italy,Europe,Beverages,Coffee,9,752.04,185.66
+640,2025-09-02,Customer_0139,Italy,Europe,Snacks,Biscuits,5,176.05,36.94
+641,2025-09-23,Customer_0118,France,Europe,Rice,Brown Rice,6,430.2,31.87
+642,2025-02-21,Customer_0084,India,Asia,Beverages,Juice,1,92.36,11.63
+643,2025-08-30,Customer_0157,Australia,Oceania,Beverages,Juice,6,517.98,50.47
+644,2025-07-10,Customer_0094,United Kingdom,Europe,Beverages,Coffee,16,1285.6,172.04
+645,2025-12-18,Customer_0059,Japan,Asia,Snacks,Chips,6,295.08,72.55
+646,2025-04-11,Customer_0038,Australia,Oceania,Dal,Masoor Dal,8,1039.84,230.08
+647,2025-11-19,Customer_0133,India,Asia,Flour,Besan,6,330.96,25.45
+648,2025-10-18,Customer_0013,Germany,Europe,Fruits,Orange,16,744.0,120.85
+649,2025-11-19,Customer_0025,United Kingdom,Europe,Snacks,Biscuits,2,79.14,7.98
+650,2025-05-12,Customer_0089,Germany,Europe,Dairy,Butter,9,521.91,84.59
+651,2025-04-12,Customer_0148,United States,North America,Rice,Brown Rice,12,1067.16,258.92
+652,2025-06-16,Customer_0173,China,Asia,Vegetables,Onion,6,280.92,30.04
+653,2025-11-20,Customer_0038,Japan,Asia,Fruits,Banana,3,146.79,15.75
+654,2025-02-06,Customer_0021,France,Europe,Flour,Besan,20,1202.2,264.22
+655,2025-05-17,Customer_0155,Canada,North America,Flour,Besan,11,568.81,61.59
+656,2025-08-19,Customer_0106,Japan,Asia,Snacks,Chips,12,647.28,99.8
+657,2025-12-25,Customer_0192,India,Asia,Flour,Wheat Flour,5,326.35,59.53
+658,2025-08-31,Customer_0141,United Kingdom,Europe,Dal,Toor Dal,13,1266.46,79.48
+659,2025-05-15,Customer_0159,France,Europe,Rice,Basmati Rice,17,1438.71,95.89
+660,2025-08-15,Customer_0161,France,Europe,Flour,Wheat Flour,10,488.2,96.43
+661,2025-06-16,Customer_0122,China,Asia,Flour,Wheat Flour,6,253.14,46.25
+662,2025-12-24,Customer_0139,Australia,Oceania,Dairy,Butter,18,1098.18,267.86
+663,2025-06-08,Customer_0089,Italy,Europe,Flour,Besan,14,819.28,145.75
+664,2025-05-14,Customer_0040,Canada,North America,Dairy,Butter,3,182.73,22.5
+665,2025-06-26,Customer_0074,India,Asia,Spices,Turmeric,17,1896.01,416.34
+666,2025-01-05,Customer_0197,India,Asia,Dairy,Butter,16,1265.44,184.01
+667,2025-04-07,Customer_0106,Italy,Europe,Snacks,Chips,8,442.08,70.57
+668,2025-07-19,Customer_0097,France,Europe,Fruits,Banana,8,339.2,66.97
+669,2025-11-10,Customer_0178,United States,North America,Oil,Groundnut Oil,14,2205.42,338.14
+670,2025-04-04,Customer_0035,China,Asia,Spices,Chilli Powder,9,808.2,178.37
+671,2025-09-09,Customer_0049,Japan,Asia,Spices,Turmeric,20,1839.0,349.58
+672,2025-02-22,Customer_0073,United Kingdom,Europe,Beverages,Tea,2,213.1,11.6
+673,2025-09-10,Customer_0056,Japan,Asia,Spices,Turmeric,1,80.07,6.42
+674,2025-01-17,Customer_0085,Australia,Oceania,Beverages,Coffee,16,1726.4,246.42
+675,2025-08-29,Customer_0047,India,Asia,Dal,Toor Dal,9,1312.65,84.37
+676,2025-05-08,Customer_0099,France,Europe,Oil,Groundnut Oil,1,115.24,23.47
+677,2025-09-24,Customer_0171,India,Asia,Dairy,Milk,7,431.13,88.04
+678,2025-01-22,Customer_0191,France,Europe,Oil,Groundnut Oil,10,1836.4,150.07
+679,2025-07-04,Customer_0014,United States,North America,Fruits,Orange,9,467.46,51.31
+680,2025-05-22,Customer_0150,Canada,North America,Oil,Sunflower Oil,14,1851.64,154.56
+681,2025-12-20,Customer_0122,Canada,North America,Dal,Moong Dal,1,159.76,26.55
+682,2025-12-18,Customer_0159,Germany,Europe,Vegetables,Potato,3,94.41,14.16
+683,2025-10-02,Customer_0028,India,Asia,Beverages,Juice,2,154.12,12.45
+684,2025-06-27,Customer_0113,Canada,North America,Flour,Besan,11,810.15,168.28
+685,2025-01-21,Customer_0125,France,Europe,Oil,Sunflower Oil,12,1990.2,199.3
+686,2025-04-06,Customer_0140,Australia,Oceania,Dairy,Butter,18,1261.62,110.97
+687,2025-10-11,Customer_0042,Japan,Asia,Beverages,Coffee,9,914.85,155.28
+688,2025-07-07,Customer_0117,United Kingdom,Europe,Dal,Masoor Dal,15,1669.35,171.39
+689,2025-11-14,Customer_0062,United Kingdom,Europe,Rice,Brown Rice,1,78.53,9.64
+690,2025-12-16,Customer_0128,United States,North America,Beverages,Juice,18,1787.58,157.26
+691,2025-02-26,Customer_0025,Italy,Europe,Fruits,Apple,10,471.8,84.07
+692,2025-01-17,Customer_0052,United States,North America,Fruits,Orange,2,125.12,9.5
+693,2025-07-18,Customer_0169,Canada,North America,Dal,Moong Dal,4,369.16,65.84
+694,2025-11-07,Customer_0184,Italy,Europe,Dairy,Butter,19,1029.99,126.97
+695,2025-08-28,Customer_0164,Canada,North America,Dal,Toor Dal,16,2509.6,543.12
+696,2025-01-30,Customer_0158,China,Asia,Rice,Brown Rice,14,1218.42,254.47
+697,2025-04-21,Customer_0133,India,Asia,Spices,Garam Masala,3,337.68,22.15
+698,2025-12-03,Customer_0064,Canada,North America,Dal,Toor Dal,18,2119.32,187.82
+699,2025-02-24,Customer_0197,United Kingdom,Europe,Vegetables,Onion,18,755.64,100.53
+700,2025-04-03,Customer_0141,Japan,Asia,Vegetables,Tomato,14,627.06,52.27
+701,2025-06-30,Customer_0081,Germany,Europe,Snacks,Namkeen,6,289.02,49.13
+702,2025-06-15,Customer_0156,Germany,Europe,Fruits,Banana,14,846.02,115.16
+703,2025-08-20,Customer_0115,France,Europe,Oil,Sunflower Oil,18,3290.4,331.73
+704,2025-06-04,Customer_0002,India,Asia,Snacks,Biscuits,10,498.4,76.52
+705,2025-12-20,Customer_0071,Canada,North America,Spices,Turmeric,11,755.37,161.94
+706,2025-01-20,Customer_0118,China,Asia,Fruits,Orange,19,1240.32,100.4
+707,2025-04-30,Customer_0066,United Kingdom,Europe,Beverages,Tea,9,698.58,116.27
+708,2025-02-09,Customer_0186,Italy,Europe,Spices,Turmeric,13,1276.99,119.38
+709,2025-10-23,Customer_0025,United Kingdom,Europe,Beverages,Coffee,16,1594.08,299.56
+710,2025-02-10,Customer_0200,Australia,Oceania,Vegetables,Onion,2,83.2,13.75
+711,2025-04-27,Customer_0192,Germany,Europe,Rice,Brown Rice,14,979.86,219.06
+712,2025-10-04,Customer_0145,France,Europe,Vegetables,Potato,2,65.3,3.8
+713,2025-07-21,Customer_0115,China,Asia,Flour,Besan,8,370.48,68.44
+714,2025-07-21,Customer_0038,China,Asia,Vegetables,Onion,3,92.73,10.01
+715,2025-07-24,Customer_0068,United States,North America,Flour,Besan,16,961.76,57.57
+716,2025-03-11,Customer_0124,China,Asia,Dal,Moong Dal,14,2040.08,155.2
+717,2025-11-12,Customer_0189,Japan,Asia,Fruits,Apple,13,741.91,66.19
+718,2025-12-17,Customer_0148,Canada,North America,Fruits,Apple,3,136.47,18.56
+719,2025-06-26,Customer_0153,France,Europe,Dal,Toor Dal,14,1628.2,143.44
+720,2025-08-15,Customer_0160,United Kingdom,Europe,Rice,Brown Rice,12,940.56,233.29
+721,2025-02-13,Customer_0029,India,Asia,Flour,Besan,8,382.72,47.75
+722,2025-01-08,Customer_0088,Italy,Europe,Rice,Basmati Rice,5,444.95,95.23
+723,2025-10-03,Customer_0055,Japan,Asia,Dal,Moong Dal,16,1466.24,134.6
+724,2025-12-22,Customer_0179,China,Asia,Oil,Groundnut Oil,16,2517.44,625.48
+725,2025-05-26,Customer_0052,Italy,Europe,Rice,Brown Rice,17,923.61,77.64
+726,2025-07-18,Customer_0170,India,Asia,Vegetables,Tomato,15,600.0,31.0
+727,2025-11-29,Customer_0099,Germany,Europe,Spices,Garam Masala,4,274.12,61.26
+728,2025-11-02,Customer_0137,China,Asia,Oil,Groundnut Oil,4,723.72,106.34
+729,2025-12-31,Customer_0006,Canada,North America,Dal,Toor Dal,17,2713.37,439.94
+730,2025-03-22,Customer_0005,China,Asia,Rice,Basmati Rice,10,665.1,85.59
+731,2025-09-14,Customer_0071,Germany,Europe,Beverages,Juice,12,1080.12,105.03
+732,2025-04-26,Customer_0039,France,Europe,Rice,Brown Rice,1,92.15,22.1
+733,2025-12-14,Customer_0157,United Kingdom,Europe,Beverages,Coffee,3,285.09,43.94
+734,2025-11-06,Customer_0085,Canada,North America,Oil,Groundnut Oil,19,2238.77,546.5
+735,2025-12-17,Customer_0052,United Kingdom,Europe,Dairy,Butter,7,479.43,79.68
+736,2025-03-16,Customer_0168,China,Asia,Flour,Besan,5,277.2,64.26
+737,2025-03-02,Customer_0048,Germany,Europe,Vegetables,Potato,3,113.85,27.29
+738,2025-07-30,Customer_0078,India,Asia,Beverages,Tea,11,1124.75,149.38
+739,2025-04-05,Customer_0007,Australia,Oceania,Dairy,Butter,5,365.25,26.06
+740,2025-04-29,Customer_0060,Australia,Oceania,Vegetables,Onion,20,763.2,73.41
+741,2025-08-29,Customer_0183,United States,North America,Rice,Brown Rice,16,930.08,203.9
+742,2025-04-26,Customer_0009,France,Europe,Beverages,Tea,16,1323.84,109.56
+743,2025-04-14,Customer_0194,Australia,Oceania,Snacks,Biscuits,14,556.64,102.57
+744,2025-06-16,Customer_0118,United Kingdom,Europe,Oil,Sunflower Oil,15,2667.6,394.77
+745,2025-06-10,Customer_0101,France,Europe,Oil,Groundnut Oil,2,312.14,67.07
+746,2025-12-27,Customer_0010,Italy,Europe,Vegetables,Onion,20,750.2,133.74
+747,2025-05-06,Customer_0133,Japan,Asia,Fruits,Apple,15,934.65,54.66
+748,2025-01-26,Customer_0049,India,Asia,Fruits,Banana,18,884.16,179.51
+749,2025-03-27,Customer_0109,France,Europe,Spices,Chilli Powder,10,1092.8,117.13
+750,2025-11-27,Customer_0116,India,Asia,Spices,Garam Masala,17,1977.1,282.16
+751,2025-12-23,Customer_0140,China,Asia,Dal,Masoor Dal,4,411.76,68.8
+752,2025-10-30,Customer_0183,France,Europe,Flour,Besan,11,617.43,52.96
+753,2025-12-31,Customer_0042,United States,North America,Oil,Groundnut Oil,9,1189.98,213.86
+754,2025-12-29,Customer_0099,United States,North America,Dal,Toor Dal,15,2034.75,136.45
+755,2025-03-29,Customer_0086,United Kingdom,Europe,Fruits,Orange,13,702.13,41.27
+756,2025-12-31,Customer_0014,United Kingdom,Europe,Vegetables,Onion,6,267.0,22.9
+757,2025-03-09,Customer_0052,Australia,Oceania,Snacks,Chips,15,623.25,53.69
+758,2025-01-03,Customer_0156,India,Asia,Rice,Brown Rice,15,1101.0,164.85
+759,2025-08-15,Customer_0021,Canada,North America,Dairy,Milk,19,1306.06,183.82
+760,2025-11-18,Customer_0143,India,Asia,Vegetables,Onion,8,358.24,37.84
+761,2025-03-16,Customer_0009,United Kingdom,Europe,Oil,Sunflower Oil,5,548.15,65.67
+762,2025-08-02,Customer_0046,Australia,Oceania,Vegetables,Onion,11,501.38,29.99
+763,2025-08-22,Customer_0192,Italy,Europe,Flour,Besan,20,1202.8,195.38
+764,2025-07-14,Customer_0018,India,Asia,Vegetables,Tomato,3,127.17,14.57
+765,2025-05-21,Customer_0085,United States,North America,Snacks,Namkeen,10,464.6,34.57
+766,2025-02-25,Customer_0147,China,Asia,Fruits,Banana,7,408.59,70.45
+767,2025-05-28,Customer_0110,Japan,Asia,Fruits,Apple,20,1310.4,324.0
+768,2025-03-08,Customer_0158,Australia,Oceania,Vegetables,Tomato,17,651.61,113.8
+769,2025-11-09,Customer_0060,China,Asia,Vegetables,Tomato,16,585.44,50.34
+770,2025-03-02,Customer_0189,India,Asia,Spices,Turmeric,4,275.2,48.19
+771,2025-11-23,Customer_0055,France,Europe,Oil,Groundnut Oil,2,266.08,43.13
+772,2025-09-17,Customer_0141,Australia,Oceania,Rice,Basmati Rice,9,771.21,86.03
+773,2025-11-12,Customer_0008,United States,North America,Beverages,Tea,11,840.29,163.76
+774,2025-08-31,Customer_0010,Germany,Europe,Flour,Wheat Flour,11,788.59,114.99
+775,2025-06-21,Customer_0119,United Kingdom,Europe,Flour,Besan,15,1060.35,166.89
+776,2025-06-11,Customer_0143,India,Asia,Snacks,Namkeen,17,711.11,138.66
+777,2025-07-01,Customer_0017,Canada,North America,Fruits,Apple,19,1103.14,231.56
+778,2025-03-26,Customer_0147,India,Asia,Flour,Besan,11,810.81,142.14
+779,2025-06-07,Customer_0181,United Kingdom,Europe,Vegetables,Tomato,20,574.0,118.51
+780,2025-05-02,Customer_0096,India,Asia,Beverages,Juice,9,718.83,107.4
+781,2025-01-20,Customer_0200,Canada,North America,Dairy,Curd,17,949.96,68.82
+782,2025-09-14,Customer_0040,Japan,Asia,Oil,Sunflower Oil,17,1820.53,266.77
+783,2025-02-20,Customer_0133,Japan,Asia,Oil,Groundnut Oil,17,2228.19,257.28
+784,2025-03-01,Customer_0002,India,Asia,Flour,Wheat Flour,15,810.6,180.73
+785,2025-02-22,Customer_0134,Italy,Europe,Spices,Turmeric,3,256.5,58.44
+786,2025-04-13,Customer_0050,Italy,Europe,Spices,Turmeric,10,1020.0,93.81
+787,2025-05-20,Customer_0039,China,Asia,Spices,Chilli Powder,11,1201.53,221.35
+788,2025-02-22,Customer_0053,United States,North America,Flour,Besan,1,72.87,11.8
+789,2025-05-26,Customer_0147,China,Asia,Fruits,Banana,11,501.93,119.79
+790,2025-08-16,Customer_0013,United States,North America,Oil,Sunflower Oil,10,1565.1,184.29
+791,2025-08-07,Customer_0101,Japan,Asia,Flour,Wheat Flour,2,89.5,5.44
+792,2025-12-10,Customer_0137,Italy,Europe,Flour,Besan,12,618.72,132.09
+793,2025-12-24,Customer_0120,Italy,Europe,Dal,Moong Dal,5,483.45,101.75
+794,2025-03-15,Customer_0158,Australia,Oceania,Dal,Moong Dal,15,1858.2,445.02
+795,2025-06-16,Customer_0117,France,Europe,Spices,Chilli Powder,6,631.68,115.62
+796,2025-03-29,Customer_0073,United States,North America,Dairy,Milk,16,784.96,114.39
+797,2025-02-24,Customer_0084,Italy,Europe,Beverages,Juice,5,421.9,55.33
+798,2025-07-31,Customer_0062,United States,North America,Fruits,Orange,10,534.8,69.61
+799,2025-06-24,Customer_0054,China,Asia,Vegetables,Potato,6,280.2,35.52
+800,2025-05-01,Customer_0045,France,Europe,Vegetables,Tomato,19,812.82,129.16
+801,2025-06-16,Customer_0143,Italy,Europe,Dal,Masoor Dal,16,1571.68,265.95
+802,2025-02-25,Customer_0176,United Kingdom,Europe,Dal,Moong Dal,10,1588.2,101.52
+803,2025-04-22,Customer_0036,Germany,Europe,Vegetables,Tomato,16,636.64,39.66
+804,2025-05-30,Customer_0100,India,Asia,Vegetables,Onion,5,200.65,28.21
+805,2025-06-03,Customer_0146,Japan,Asia,Vegetables,Onion,7,213.99,48.25
+806,2025-09-19,Customer_0104,Germany,Europe,Spices,Chilli Powder,3,296.91,51.16
+807,2025-01-01,Customer_0181,India,Asia,Flour,Besan,12,851.88,207.5
+808,2025-12-26,Customer_0152,United States,North America,Fruits,Banana,10,634.7,61.6
+809,2025-04-19,Customer_0170,Germany,Europe,Snacks,Namkeen,13,581.23,79.65
+810,2025-07-04,Customer_0107,United Kingdom,Europe,Flour,Besan,7,417.06,91.2
+811,2025-03-15,Customer_0185,United Kingdom,Europe,Flour,Besan,5,208.15,37.4
+812,2025-08-01,Customer_0117,France,Europe,Dairy,Butter,5,240.25,42.87
+813,2025-08-19,Customer_0099,Italy,Europe,Vegetables,Tomato,6,214.74,28.95
+814,2025-05-02,Customer_0183,United Kingdom,Europe,Beverages,Tea,14,1246.28,206.37
+815,2025-01-20,Customer_0146,France,Europe,Fruits,Banana,18,986.22,55.91
+816,2025-02-10,Customer_0037,Germany,Europe,Dairy,Butter,4,263.56,63.87
+817,2025-02-15,Customer_0063,Japan,Asia,Fruits,Banana,17,677.45,154.45
+818,2025-01-28,Customer_0088,United States,North America,Dairy,Butter,18,1327.14,149.3
+819,2025-06-19,Customer_0108,Japan,Asia,Fruits,Apple,15,793.2,114.1
+820,2025-06-05,Customer_0187,Australia,Oceania,Beverages,Coffee,6,370.2,86.84
+821,2025-12-03,Customer_0075,India,Asia,Vegetables,Tomato,16,614.24,101.09
+822,2025-05-23,Customer_0065,Australia,Oceania,Vegetables,Potato,16,447.68,67.65
+823,2025-03-31,Customer_0152,Australia,Oceania,Flour,Besan,9,375.48,27.15
+824,2025-09-06,Customer_0047,Germany,Europe,Flour,Besan,6,299.22,56.9
+825,2025-03-20,Customer_0127,Germany,Europe,Fruits,Apple,3,199.56,33.75
+826,2025-10-23,Customer_0188,Canada,North America,Snacks,Chips,15,800.25,66.79
+827,2025-09-01,Customer_0078,Australia,Oceania,Beverages,Tea,4,250.08,35.71
+828,2025-08-31,Customer_0068,China,Asia,Dairy,Butter,8,469.36,89.7
+829,2025-12-14,Customer_0081,India,Asia,Flour,Besan,10,718.5,100.42
+830,2025-08-10,Customer_0157,India,Asia,Fruits,Orange,4,260.12,46.17
+831,2025-10-27,Customer_0101,Australia,Oceania,Spices,Chilli Powder,9,997.47,100.81
+832,2025-12-13,Customer_0177,Canada,North America,Dairy,Butter,19,1382.06,212.82
+833,2025-01-07,Customer_0106,China,Asia,Flour,Besan,1,63.45,13.73
+834,2025-05-09,Customer_0050,United States,North America,Dal,Masoor Dal,15,1729.65,337.37
+835,2025-04-22,Customer_0154,Italy,Europe,Rice,Basmati Rice,3,164.67,27.8
+836,2025-12-03,Customer_0196,United States,North America,Dal,Masoor Dal,3,454.98,34.57
+837,2025-02-08,Customer_0164,United States,North America,Vegetables,Potato,6,189.42,27.16
+838,2025-05-22,Customer_0199,France,Europe,Dairy,Curd,11,596.86,123.04
+839,2025-05-16,Customer_0046,France,Europe,Rice,Brown Rice,11,1037.63,105.47
+840,2025-09-09,Customer_0028,Japan,Asia,Dairy,Milk,7,468.79,40.17
+841,2025-05-13,Customer_0027,Canada,North America,Flour,Besan,20,1249.6,290.56
+842,2025-01-10,Customer_0128,United States,North America,Rice,Basmati Rice,19,1578.14,324.22
+843,2025-07-20,Customer_0148,India,Asia,Flour,Wheat Flour,13,650.52,123.61
+844,2025-02-05,Customer_0139,Japan,Asia,Rice,Brown Rice,14,972.44,190.16
+845,2025-07-03,Customer_0086,France,Europe,Oil,Sunflower Oil,16,1842.88,289.44
+846,2025-06-24,Customer_0021,India,Asia,Spices,Chilli Powder,3,261.69,57.75
+847,2025-12-05,Customer_0049,Canada,North America,Dairy,Curd,6,389.76,94.91
+848,2025-02-13,Customer_0162,France,Europe,Spices,Garam Masala,4,406.2,49.5
+849,2025-10-31,Customer_0062,Canada,North America,Dairy,Butter,5,231.45,12.75
+850,2025-08-19,Customer_0005,United States,North America,Dairy,Curd,18,1226.88,183.95
+851,2025-03-02,Customer_0055,India,Asia,Rice,Brown Rice,11,941.49,55.14
+852,2025-02-06,Customer_0010,China,Asia,Fruits,Banana,5,298.65,28.85
+853,2025-05-05,Customer_0180,India,Asia,Flour,Besan,16,1139.04,197.82
+854,2025-02-19,Customer_0117,United Kingdom,Europe,Flour,Wheat Flour,2,142.2,30.45
+855,2025-09-12,Customer_0153,Italy,Europe,Vegetables,Potato,3,130.26,9.28
+856,2025-12-14,Customer_0103,United States,North America,Vegetables,Potato,7,246.4,52.31
+857,2025-04-20,Customer_0196,Italy,Europe,Beverages,Tea,18,1198.62,260.44
+858,2025-08-01,Customer_0044,Germany,Europe,Rice,Basmati Rice,3,172.71,13.51
+859,2025-03-10,Customer_0026,United Kingdom,Europe,Beverages,Juice,15,1075.35,178.94
+860,2025-01-04,Customer_0046,United Kingdom,Europe,Vegetables,Tomato,1,44.72,2.96
+861,2025-09-01,Customer_0178,Italy,Europe,Dal,Masoor Dal,10,1199.7,253.72
+862,2025-03-31,Customer_0157,United Kingdom,Europe,Flour,Wheat Flour,9,526.59,69.72
+863,2025-06-04,Customer_0090,Japan,Asia,Rice,Basmati Rice,20,1848.2,324.25
+864,2025-02-18,Customer_0159,China,Asia,Snacks,Biscuits,8,311.44,77.03
+865,2025-04-17,Customer_0071,China,Asia,Beverages,Juice,8,658.24,115.38
+866,2025-08-31,Customer_0128,United States,North America,Rice,Basmati Rice,5,406.4,99.05
+867,2025-08-11,Customer_0065,India,Asia,Flour,Wheat Flour,2,125.06,13.38
+868,2025-10-03,Customer_0046,Japan,Asia,Beverages,Juice,2,130.02,7.87
+869,2025-08-16,Customer_0152,Japan,Asia,Flour,Wheat Flour,17,766.36,175.51
+870,2025-04-28,Customer_0200,France,Europe,Vegetables,Tomato,7,293.58,67.43
+871,2025-04-13,Customer_0097,Canada,North America,Dal,Moong Dal,4,428.28,56.76
+872,2025-03-16,Customer_0056,Japan,Asia,Oil,Sunflower Oil,19,2768.11,631.4
+873,2025-04-10,Customer_0162,United Kingdom,Europe,Vegetables,Tomato,13,443.17,62.73
+874,2025-01-31,Customer_0072,Canada,North America,Beverages,Coffee,11,727.21,137.04
+875,2025-04-23,Customer_0076,Japan,Asia,Flour,Wheat Flour,15,825.75,166.86
+876,2025-04-28,Customer_0023,Italy,Europe,Vegetables,Potato,6,230.34,36.98
+877,2025-05-23,Customer_0004,Japan,Asia,Snacks,Namkeen,7,348.04,75.66
+878,2025-10-30,Customer_0039,Canada,North America,Snacks,Namkeen,8,340.72,56.52
+879,2025-09-16,Customer_0009,France,Europe,Vegetables,Potato,2,54.18,7.81
+880,2025-02-20,Customer_0116,France,Europe,Snacks,Namkeen,16,889.76,168.46
+881,2025-07-28,Customer_0056,United States,North America,Dairy,Milk,18,1297.98,244.84
+882,2025-09-03,Customer_0172,Australia,Oceania,Flour,Besan,8,500.96,34.14
+883,2025-08-21,Customer_0119,Japan,Asia,Spices,Turmeric,19,2049.15,112.46
+884,2025-01-01,Customer_0161,United Kingdom,Europe,Flour,Besan,12,743.16,141.78
+885,2025-05-19,Customer_0179,Germany,Europe,Dal,Moong Dal,17,1570.12,212.25
+886,2025-06-21,Customer_0189,Italy,Europe,Vegetables,Onion,7,299.53,19.83
+887,2025-01-21,Customer_0094,India,Asia,Rice,Brown Rice,4,274.32,39.25
+888,2025-03-12,Customer_0086,China,Asia,Beverages,Tea,3,260.76,53.38
+889,2025-04-26,Customer_0083,Japan,Asia,Oil,Sunflower Oil,19,3385.42,645.16
+890,2025-06-26,Customer_0116,China,Asia,Beverages,Coffee,14,1026.2,64.32
+891,2025-09-30,Customer_0075,China,Asia,Dairy,Butter,4,247.72,38.74
+892,2025-02-14,Customer_0021,Germany,Europe,Dairy,Butter,3,155.34,35.23
+893,2025-12-23,Customer_0038,Australia,Oceania,Snacks,Biscuits,3,110.1,11.58
+894,2025-08-02,Customer_0175,Canada,North America,Dairy,Milk,17,1347.76,73.5
+895,2025-01-11,Customer_0075,Japan,Asia,Fruits,Apple,12,601.2,118.76
+896,2025-06-21,Customer_0106,India,Asia,Oil,Sunflower Oil,8,1401.12,215.67
+897,2025-10-08,Customer_0114,Germany,Europe,Vegetables,Tomato,16,619.36,117.29
+898,2025-05-14,Customer_0059,Italy,Europe,Dairy,Curd,5,386.7,43.04
+899,2025-03-27,Customer_0159,Australia,Oceania,Dairy,Curd,2,100.68,10.76
+900,2025-12-08,Customer_0040,United Kingdom,Europe,Flour,Besan,6,413.7,78.01
+901,2025-08-14,Customer_0067,United States,North America,Flour,Wheat Flour,2,148.08,24.42
+902,2025-06-26,Customer_0038,Canada,North America,Beverages,Tea,18,1690.92,309.63
+903,2025-01-13,Customer_0104,China,Asia,Beverages,Coffee,6,513.66,38.16
+904,2025-10-07,Customer_0130,Japan,Asia,Dairy,Milk,11,556.82,135.88
+905,2025-10-21,Customer_0171,Australia,Oceania,Beverages,Juice,16,1648.16,402.02
+906,2025-03-13,Customer_0174,Germany,Europe,Flour,Besan,4,261.56,60.17
+907,2025-08-17,Customer_0092,Australia,Oceania,Fruits,Apple,1,49.55,10.81
+908,2025-04-24,Customer_0197,India,Asia,Dal,Moong Dal,20,2723.4,453.95
+909,2025-12-10,Customer_0023,India,Asia,Spices,Turmeric,3,289.71,40.3
+910,2025-01-29,Customer_0171,Canada,North America,Fruits,Banana,16,752.48,128.69
+911,2025-05-26,Customer_0089,United Kingdom,Europe,Beverages,Coffee,14,1088.36,135.57
+912,2025-08-16,Customer_0190,Japan,Asia,Beverages,Coffee,18,1155.6,226.0
+913,2025-08-06,Customer_0187,Australia,Oceania,Snacks,Chips,6,333.0,81.28
+914,2025-09-01,Customer_0135,Italy,Europe,Snacks,Biscuits,20,721.4,66.05
+915,2025-05-20,Customer_0107,Italy,Europe,Beverages,Tea,13,835.25,110.16
+916,2025-05-29,Customer_0142,Italy,Europe,Flour,Besan,5,239.15,51.77
+917,2025-08-26,Customer_0058,Australia,Oceania,Dairy,Milk,19,1062.86,172.03
+918,2025-11-22,Customer_0121,United Kingdom,Europe,Rice,Basmati Rice,9,585.99,104.37
+919,2025-11-27,Customer_0063,Australia,Oceania,Dal,Masoor Dal,14,1440.74,333.33
+920,2025-07-05,Customer_0149,Australia,Oceania,Rice,Basmati Rice,16,1508.16,95.53
+921,2025-12-22,Customer_0031,France,Europe,Dairy,Butter,9,608.49,88.36
+922,2025-01-30,Customer_0038,Italy,Europe,Beverages,Juice,1,100.57,8.3
+923,2025-08-03,Customer_0163,United Kingdom,Europe,Beverages,Coffee,12,814.08,85.1
+924,2025-09-21,Customer_0050,Australia,Oceania,Beverages,Tea,10,854.2,202.67
+925,2025-12-17,Customer_0078,Italy,Europe,Flour,Wheat Flour,6,355.14,79.72
+926,2025-03-15,Customer_0004,Germany,Europe,Spices,Garam Masala,4,385.44,46.38
+927,2025-03-25,Customer_0027,Germany,Europe,Flour,Besan,16,877.6,205.52
+928,2025-10-14,Customer_0158,China,Asia,Oil,Sunflower Oil,8,1398.8,292.38
+929,2025-03-01,Customer_0034,China,Asia,Fruits,Orange,4,200.08,46.66
+930,2025-08-15,Customer_0153,Germany,Europe,Rice,Brown Rice,10,815.2,63.42
+931,2025-04-24,Customer_0033,United Kingdom,Europe,Fruits,Banana,10,383.6,81.67
+932,2025-08-06,Customer_0177,Australia,Oceania,Flour,Wheat Flour,5,240.85,59.3
+933,2025-02-25,Customer_0009,India,Asia,Dal,Toor Dal,16,2312.48,135.29
+934,2025-02-03,Customer_0078,India,Asia,Fruits,Orange,16,657.12,66.11
+935,2025-04-05,Customer_0172,United States,North America,Rice,Basmati Rice,20,1222.6,281.49
+936,2025-10-24,Customer_0090,United States,North America,Beverages,Tea,5,503.0,119.9
+937,2025-02-20,Customer_0149,China,Asia,Beverages,Tea,20,1432.2,234.95
+938,2025-01-03,Customer_0186,Canada,North America,Rice,Basmati Rice,10,597.1,119.9
+939,2025-08-14,Customer_0173,China,Asia,Dal,Toor Dal,16,1862.24,312.63
+940,2025-07-28,Customer_0029,Germany,Europe,Dal,Toor Dal,13,1566.89,239.5
+941,2025-07-04,Customer_0181,Japan,Asia,Beverages,Tea,4,339.8,50.69
+942,2025-05-26,Customer_0117,India,Asia,Spices,Garam Masala,3,255.66,18.7
+943,2025-08-08,Customer_0049,Australia,Oceania,Vegetables,Onion,15,464.85,61.11
+944,2025-12-11,Customer_0027,Germany,Europe,Dal,Moong Dal,6,545.52,100.83
+945,2025-12-22,Customer_0152,China,Asia,Snacks,Chips,3,110.91,14.3
+946,2025-04-13,Customer_0153,United Kingdom,Europe,Dal,Masoor Dal,3,348.57,31.31
+947,2025-10-25,Customer_0152,Canada,North America,Snacks,Biscuits,14,746.62,78.92
+948,2025-07-27,Customer_0125,France,Europe,Spices,Garam Masala,12,1118.28,190.82
+949,2025-09-12,Customer_0060,United Kingdom,Europe,Fruits,Banana,15,611.1,61.19
+950,2025-01-14,Customer_0046,United States,North America,Flour,Wheat Flour,2,137.3,20.54
+951,2025-02-09,Customer_0170,Germany,Europe,Snacks,Namkeen,5,209.6,36.61
+952,2025-09-16,Customer_0067,Japan,Asia,Fruits,Banana,7,324.17,48.49
+953,2025-08-09,Customer_0031,China,Asia,Fruits,Banana,18,684.54,138.82
+954,2025-04-01,Customer_0143,Germany,Europe,Snacks,Chips,13,594.1,33.98
+955,2025-07-19,Customer_0125,United Kingdom,Europe,Spices,Garam Masala,16,1452.16,163.36
+956,2025-09-01,Customer_0144,Japan,Asia,Dal,Masoor Dal,18,2508.3,412.47
+957,2025-11-12,Customer_0174,France,Europe,Flour,Wheat Flour,9,518.13,126.51
+958,2025-07-07,Customer_0090,Germany,Europe,Beverages,Coffee,2,122.7,7.24
+959,2025-07-02,Customer_0106,Germany,Europe,Vegetables,Potato,13,367.77,43.78
+960,2025-02-13,Customer_0177,Canada,North America,Beverages,Tea,8,570.08,64.09
+961,2025-01-20,Customer_0118,United States,North America,Dal,Moong Dal,11,1124.42,177.3
+962,2025-10-29,Customer_0006,China,Asia,Snacks,Namkeen,14,573.3,108.46
+963,2025-09-08,Customer_0026,Italy,Europe,Beverages,Coffee,13,981.24,68.24
+964,2025-03-27,Customer_0158,Japan,Asia,Oil,Groundnut Oil,17,2943.72,540.11
+965,2025-02-08,Customer_0138,France,Europe,Spices,Chilli Powder,7,660.38,144.93
+966,2025-04-26,Customer_0160,Australia,Oceania,Oil,Groundnut Oil,2,259.94,42.81
+967,2025-10-18,Customer_0136,Italy,Europe,Dal,Masoor Dal,4,530.44,55.52
+968,2025-06-04,Customer_0130,Canada,North America,Dairy,Curd,12,883.68,159.33
+969,2025-11-16,Customer_0132,China,Asia,Spices,Chilli Powder,11,861.3,112.37
+970,2025-09-22,Customer_0048,China,Asia,Dairy,Butter,6,460.26,80.81
+971,2025-11-11,Customer_0197,Canada,North America,Vegetables,Tomato,15,478.2,84.92
+972,2025-05-04,Customer_0039,India,Asia,Snacks,Namkeen,17,665.89,94.89
+973,2025-11-21,Customer_0053,France,Europe,Spices,Chilli Powder,11,1253.45,291.09
+974,2025-07-27,Customer_0062,Australia,Oceania,Snacks,Chips,6,244.02,41.54
+975,2025-08-26,Customer_0125,Canada,North America,Dal,Toor Dal,1,107.68,23.2
+976,2025-01-15,Customer_0067,France,Europe,Fruits,Banana,2,87.12,9.11
+977,2025-09-06,Customer_0006,China,Asia,Spices,Garam Masala,6,613.74,35.87
+978,2025-07-28,Customer_0094,Germany,Europe,Rice,Basmati Rice,20,1300.4,81.56
+979,2025-03-03,Customer_0134,United Kingdom,Europe,Dal,Moong Dal,8,784.48,154.46
+980,2025-03-04,Customer_0198,Australia,Oceania,Vegetables,Onion,16,717.28,70.02
+981,2025-08-05,Customer_0056,Italy,Europe,Beverages,Coffee,13,1282.84,255.02
+982,2025-05-11,Customer_0151,United Kingdom,Europe,Flour,Wheat Flour,7,512.82,70.72
+983,2025-10-07,Customer_0109,China,Asia,Rice,Brown Rice,12,982.56,71.33
+984,2025-07-05,Customer_0122,Canada,North America,Dairy,Butter,9,689.94,163.79
+985,2025-01-28,Customer_0177,India,Asia,Beverages,Coffee,20,1233.4,244.08
+986,2025-07-05,Customer_0176,China,Asia,Oil,Groundnut Oil,13,1702.74,411.55
+987,2025-07-21,Customer_0066,Canada,North America,Dal,Masoor Dal,15,1769.55,410.46
+988,2025-08-13,Customer_0162,Canada,North America,Spices,Turmeric,10,788.6,179.84
+989,2025-09-09,Customer_0121,France,Europe,Beverages,Juice,2,146.3,9.66
+990,2025-09-17,Customer_0017,France,Europe,Snacks,Chips,4,224.04,42.5
+991,2025-01-15,Customer_0196,Italy,Europe,Beverages,Coffee,18,1717.38,241.55
+992,2025-06-06,Customer_0081,Japan,Asia,Rice,Basmati Rice,5,263.15,23.69
+993,2025-11-29,Customer_0196,United States,North America,Vegetables,Potato,6,188.94,36.41
+994,2025-05-14,Customer_0045,Germany,Europe,Flour,Besan,15,855.6,168.58
+995,2025-07-21,Customer_0097,Australia,Oceania,Vegetables,Tomato,7,196.14,24.23
+996,2025-11-17,Customer_0059,India,Asia,Vegetables,Potato,1,45.64,8.19
+997,2025-07-25,Customer_0159,Canada,North America,Dal,Moong Dal,9,1264.41,105.9
+998,2025-10-18,Customer_0031,Australia,Oceania,Snacks,Namkeen,5,180.75,22.34
+999,2025-04-08,Customer_0069,Japan,Asia,Rice,Brown Rice,16,919.68,177.23
+1000,2025-11-04,Customer_0056,Japan,Asia,Spices,Garam Masala,13,968.89,214.38
